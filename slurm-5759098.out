@@ -1,9 +1,0 @@
-15:4: not a valid test operator:  
-15:4: not a valid test operator: 12.4
-21:4: not a valid test operator: (
-21:4: not a valid test operator: 550.90.07
-slurmstepd: error: *** STEP 5759098.3 ON HOST-10-140-60-124 CANCELLED AT 2026-01-19T20:28:09 ***
-srun: error: HOST-10-140-60-124: task 0: Terminated
-srun: Force Terminated StepId=5759098.3
-srun: Easily find out why your job was killed by following the link below:
-	https://docs.phoenix.sensetime.com/FAQ/SlurmFAQ/Find-out-why-my-job-was-killed/
