@@ -1,0 +1,12 @@
+15:4: not a valid test operator:  
+15:4: not a valid test operator: 12.4
+21:4: not a valid test operator: (
+21:4: not a valid test operator: 550.90.07
+Cloning into 'CogVideoX1.5-5B'...
+git-lfs filter-process: 1: git-lfs: not found
+fatal: the remote end hung up unexpectedly
+warning: Clone succeeded, but checkout failed.
+You can inspect what was checked out with 'git status'
+and retry with 'git restore --source=HEAD :/'
+
+srun: error: HOST-10-140-60-15: task 0: Exited with exit code 128

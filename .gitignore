@@ -35,3 +35,7 @@ CogVideo-1.0
 **/train_res*
 
 **/uv.lock
+
+CogVideoX1.5-5B/
+finetune_test_zero/
+Disney-VideoGeneration-Dataset/
