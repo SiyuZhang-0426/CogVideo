@@ -11,6 +11,6 @@ export https_proxy=http://zhangsiyu:3WqUQ2knmuHFeBXYcRKJ0rbA6EB3Jqg7Rx8bV1cjn2dt
 export HTTP_PROXY=http://zhangsiyu:3WqUQ2knmuHFeBXYcRKJ0rbA6EB3Jqg7Rx8bV1cjn2dtNSPZDBe9WIWbDtsn@10.1.20.50:23128/ && \
 export HTTPS_PROXY=http://zhangsiyu:3WqUQ2knmuHFeBXYcRKJ0rbA6EB3Jqg7Rx8bV1cjn2dtNSPZDBe9WIWbDtsn@10.1.20.50:23128/ && \
 export no_proxy=10.0.0.0/8,100.0.0.0/8,35.220.264.252/32,.pjlab.org.cn && \
-export HF_TOKEN=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 && \
+export HF_TOKEN=$HF_TOKEN && \
 hf download zai-org/CogVideoX1.5-5B
 "
