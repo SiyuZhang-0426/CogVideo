@@ -15,10 +15,5 @@ python hf_download.py \
     --repo-id 'zai-org/CogVideoX1.5-5B' \
     --local-dir '/mnt/petrelfs/zhangsiyu/4dgen/CogVideo/CogVideoX1.5-5B' \
     --token '\$hf_token' \
-    --include '*.safetensors' \
-    --include '*.json' \
-    --include '*.yaml' \
-    --include '*.txt' \
-    --include '*.md' \
-    --include '*.log' \
+    --include '*.safetensors' '*.json' '*.yaml' '*.txt' '*.md' '*.log'
 "
