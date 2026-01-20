@@ -8,7 +8,7 @@ conda activate cogvideox && \
 cd /mnt/petrelfs/zhangsiyu/4dgen/CogVideo/finetune && \
 export TOKENIZERS_PARALLELISM=false && \
 MODEL_ARGS=(
-    --model_path 'THUDM/CogVideoX1.5-5B'
+    --model_path '/mnt/petrelfs/zhangsiyu/4dgen/CogVideo/CogVideoX1.5-5B'
     --model_name 'cogvideox1.5-t2v'
     --model_type 't2v'
     --training_type 'sft'

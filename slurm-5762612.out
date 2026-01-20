@@ -1,0 +1,10 @@
+15:4: not a valid test operator:  
+15:4: not a valid test operator: 12.4
+21:4: not a valid test operator: (
+21:4: not a valid test operator: 550.90.07
+usage: hf_download.py [-h] [--repo-id REPO_ID] [--local-dir LOCAL_DIR]
+                      [--include INCLUDE [INCLUDE ...]]
+                      [--exclude EXCLUDE [EXCLUDE ...]] [--token TOKEN]
+                      [--no-auth]
+hf_download.py: error: unrecognized arguments: --repo_id zai-org/CogVideoX1.5-5B --local_dir /mnt/petrelfs/zhangsiyu/4dgen/CogVideo/CogVideoX1.5-5B
+srun: error: HOST-10-140-60-36: task 0: Exited with exit code 2

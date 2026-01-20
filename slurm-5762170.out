@@ -1,0 +1,224 @@
+15:4: not a valid test operator:  
+15:4: not a valid test operator: 12.4
+21:4: not a valid test operator: (
+21:4: not a valid test operator: 550.90.07
+W0120 16:55:26.631000 77328 site-packages/torch/distributed/run.py:803] 
+W0120 16:55:26.631000 77328 site-packages/torch/distributed/run.py:803] *****************************************
+W0120 16:55:26.631000 77328 site-packages/torch/distributed/run.py:803] Setting OMP_NUM_THREADS environment variable for each process to be 1 in default, to avoid your system being overloaded, please further tune the variable for optimal performance in your application as needed. 
+W0120 16:55:26.631000 77328 site-packages/torch/distributed/run.py:803] *****************************************
+You set `add_prefix_space`. The tokenizer needs to be converted from the slow tokenizers
+You set `add_prefix_space`. The tokenizer needs to be converted from the slow tokenizers
+You set `add_prefix_space`. The tokenizer needs to be converted from the slow tokenizers
+You set `add_prefix_space`. The tokenizer needs to be converted from the slow tokenizers
+You set `add_prefix_space`. The tokenizer needs to be converted from the slow tokenizers
+You set `add_prefix_space`. The tokenizer needs to be converted from the slow tokenizers
+You set `add_prefix_space`. The tokenizer needs to be converted from the slow tokenizers
+You set `add_prefix_space`. The tokenizer needs to be converted from the slow tokenizers
+Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]
+Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]Traceback (most recent call last):
+
+  File "/mnt/petrelfs/zhangsiyu/4dgen/CogVideo/finetune/train.py", line 19, in <module>
+Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]
+Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]Traceback (most recent call last):
+
+  File "/mnt/petrelfs/zhangsiyu/4dgen/CogVideo/finetune/train.py", line 19, in <module>
+Traceback (most recent call last):
+  File "/mnt/petrelfs/zhangsiyu/4dgen/CogVideo/finetune/train.py", line 19, in <module>
+Traceback (most recent call last):
+Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]  File "/mnt/petrelfs/zhangsiyu/4dgen/CogVideo/finetune/train.py", line 19, in <module>
+
+    main()
+  File "/mnt/petrelfs/zhangsiyu/4dgen/CogVideo/finetune/train.py", line 14, in main
+Traceback (most recent call last):
+          File "/mnt/petrelfs/zhangsiyu/4dgen/CogVideo/finetune/train.py", line 19, in <module>
+main()
+    main()  File "/mnt/petrelfs/zhangsiyu/4dgen/CogVideo/finetune/train.py", line 14, in main
+
+main()
+  File "/mnt/petrelfs/zhangsiyu/4dgen/CogVideo/finetune/train.py", line 14, in main
+      File "/mnt/petrelfs/zhangsiyu/4dgen/CogVideo/finetune/train.py", line 14, in main
+trainer = trainer_cls(args)
+  File "/mnt/petrelfs/zhangsiyu/4dgen/CogVideo/finetune/trainer.py", line 75, in __init__
+        trainer = trainer_cls(args)main()
+    
+  File "/mnt/petrelfs/zhangsiyu/4dgen/CogVideo/finetune/trainer.py", line 75, in __init__
+trainer = trainer_cls(args)      File "/mnt/petrelfs/zhangsiyu/4dgen/CogVideo/finetune/train.py", line 14, in main
+
+  File "/mnt/petrelfs/zhangsiyu/4dgen/CogVideo/finetune/trainer.py", line 75, in __init__
+trainer = trainer_cls(args)
+  File "/mnt/petrelfs/zhangsiyu/4dgen/CogVideo/finetune/trainer.py", line 75, in __init__
+    trainer = trainer_cls(args)
+  File "/mnt/petrelfs/zhangsiyu/4dgen/CogVideo/finetune/trainer.py", line 75, in __init__
+Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]
+
+
+Traceback (most recent call last):
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/mnt/petrelfs/zhangsiyu/4dgen/CogVideo/finetune/train.py", line 19, in <module>
+  File "/mnt/petrelfs/zhangsiyu/4dgen/CogVideo/finetune/train.py", line 19, in <module>
+  File "/mnt/petrelfs/zhangsiyu/4dgen/CogVideo/finetune/train.py", line 19, in <module>
+                self.components: Components = self.load_components()self.components: Components = self.load_components()    self.components: Components = self.load_components()
+
+self.components: Components = self.load_components()  File "/mnt/petrelfs/zhangsiyu/4dgen/CogVideo/finetune/models/cogvideox_t2v/lora_trainer.py", line 34, in load_components
+  File "/mnt/petrelfs/zhangsiyu/4dgen/CogVideo/finetune/models/cogvideox_t2v/lora_trainer.py", line 34, in load_components
+
+
+self.components: Components = self.load_components()  File "/mnt/petrelfs/zhangsiyu/4dgen/CogVideo/finetune/models/cogvideox_t2v/lora_trainer.py", line 34, in load_components
+  File "/mnt/petrelfs/zhangsiyu/4dgen/CogVideo/finetune/models/cogvideox_t2v/lora_trainer.py", line 34, in load_components
+
+      File "/mnt/petrelfs/zhangsiyu/4dgen/CogVideo/finetune/models/cogvideox_t2v/lora_trainer.py", line 34, in load_components
+        main()main()
+main()
+
+  File "/mnt/petrelfs/zhangsiyu/4dgen/CogVideo/finetune/train.py", line 14, in main
+  File "/mnt/petrelfs/zhangsiyu/4dgen/CogVideo/finetune/train.py", line 14, in main
+  File "/mnt/petrelfs/zhangsiyu/4dgen/CogVideo/finetune/train.py", line 14, in main
+            trainer = trainer_cls(args)
+trainer = trainer_cls(args)trainer = trainer_cls(args)  File "/mnt/petrelfs/zhangsiyu/4dgen/CogVideo/finetune/trainer.py", line 75, in __init__
+
+
+  File "/mnt/petrelfs/zhangsiyu/4dgen/CogVideo/finetune/trainer.py", line 75, in __init__
+  File "/mnt/petrelfs/zhangsiyu/4dgen/CogVideo/finetune/trainer.py", line 75, in __init__
+            self.components: Components = self.load_components()self.components: Components = self.load_components()self.components: Components = self.load_components()
+
+
+  File "/mnt/petrelfs/zhangsiyu/4dgen/CogVideo/finetune/models/cogvideox_t2v/lora_trainer.py", line 34, in load_components
+  File "/mnt/petrelfs/zhangsiyu/4dgen/CogVideo/finetune/models/cogvideox_t2v/lora_trainer.py", line 34, in load_components
+  File "/mnt/petrelfs/zhangsiyu/4dgen/CogVideo/finetune/models/cogvideox_t2v/lora_trainer.py", line 34, in load_components
+            components.text_encoder = T5EncoderModel.from_pretrained(    components.text_encoder = T5EncoderModel.from_pretrained(    components.text_encoder = T5EncoderModel.from_pretrained(
+        components.text_encoder = T5EncoderModel.from_pretrained(
+
+  File "/mnt/petrelfs/zhangsiyu/miniconda3/envs/cogvideox/lib/python3.10/site-packages/transformers/modeling_utils.py", line 277, in _wrapper
+
+  File "/mnt/petrelfs/zhangsiyu/miniconda3/envs/cogvideox/lib/python3.10/site-packages/transformers/modeling_utils.py", line 277, in _wrapper
+components.text_encoder = T5EncoderModel.from_pretrained(    components.text_encoder = T5EncoderModel.from_pretrained(  File "/mnt/petrelfs/zhangsiyu/miniconda3/envs/cogvideox/lib/python3.10/site-packages/transformers/modeling_utils.py", line 277, in _wrapper
+  File "/mnt/petrelfs/zhangsiyu/miniconda3/envs/cogvideox/lib/python3.10/site-packages/transformers/modeling_utils.py", line 277, in _wrapper
+components.text_encoder = T5EncoderModel.from_pretrained(
+
+
+  File "/mnt/petrelfs/zhangsiyu/miniconda3/envs/cogvideox/lib/python3.10/site-packages/transformers/modeling_utils.py", line 277, in _wrapper
+components.text_encoder = T5EncoderModel.from_pretrained(  File "/mnt/petrelfs/zhangsiyu/miniconda3/envs/cogvideox/lib/python3.10/site-packages/transformers/modeling_utils.py", line 277, in _wrapper
+  File "/mnt/petrelfs/zhangsiyu/miniconda3/envs/cogvideox/lib/python3.10/site-packages/transformers/modeling_utils.py", line 277, in _wrapper
+
+  File "/mnt/petrelfs/zhangsiyu/miniconda3/envs/cogvideox/lib/python3.10/site-packages/transformers/modeling_utils.py", line 277, in _wrapper
+                            return func(*args, **kwargs)return func(*args, **kwargs)return func(*args, **kwargs)return func(*args, **kwargs)return func(*args, **kwargs)    
+
+return func(*args, **kwargs)return func(*args, **kwargs)
+
+
+  File "/mnt/petrelfs/zhangsiyu/miniconda3/envs/cogvideox/lib/python3.10/site-packages/transformers/modeling_utils.py", line 5048, in from_pretrained
+
+  File "/mnt/petrelfs/zhangsiyu/miniconda3/envs/cogvideox/lib/python3.10/site-packages/transformers/modeling_utils.py", line 5048, in from_pretrained
+
+  File "/mnt/petrelfs/zhangsiyu/miniconda3/envs/cogvideox/lib/python3.10/site-packages/transformers/modeling_utils.py", line 5048, in from_pretrained
+  File "/mnt/petrelfs/zhangsiyu/miniconda3/envs/cogvideox/lib/python3.10/site-packages/transformers/modeling_utils.py", line 5048, in from_pretrained
+return func(*args, **kwargs)  File "/mnt/petrelfs/zhangsiyu/miniconda3/envs/cogvideox/lib/python3.10/site-packages/transformers/modeling_utils.py", line 5048, in from_pretrained
+  File "/mnt/petrelfs/zhangsiyu/miniconda3/envs/cogvideox/lib/python3.10/site-packages/transformers/modeling_utils.py", line 5048, in from_pretrained
+  File "/mnt/petrelfs/zhangsiyu/miniconda3/envs/cogvideox/lib/python3.10/site-packages/transformers/modeling_utils.py", line 5048, in from_pretrained
+
+  File "/mnt/petrelfs/zhangsiyu/miniconda3/envs/cogvideox/lib/python3.10/site-packages/transformers/modeling_utils.py", line 5048, in from_pretrained
+                            ) = cls._load_pretrained_model() = cls._load_pretrained_model() = cls._load_pretrained_model(    ) = cls._load_pretrained_model(
+
+) = cls._load_pretrained_model() = cls._load_pretrained_model(
+
+  File "/mnt/petrelfs/zhangsiyu/miniconda3/envs/cogvideox/lib/python3.10/site-packages/transformers/modeling_utils.py", line 5468, in _load_pretrained_model
+
+  File "/mnt/petrelfs/zhangsiyu/miniconda3/envs/cogvideox/lib/python3.10/site-packages/transformers/modeling_utils.py", line 5468, in _load_pretrained_model
+
+  File "/mnt/petrelfs/zhangsiyu/miniconda3/envs/cogvideox/lib/python3.10/site-packages/transformers/modeling_utils.py", line 5468, in _load_pretrained_model
+) = cls._load_pretrained_model() = cls._load_pretrained_model(  File "/mnt/petrelfs/zhangsiyu/miniconda3/envs/cogvideox/lib/python3.10/site-packages/transformers/modeling_utils.py", line 5468, in _load_pretrained_model
+  File "/mnt/petrelfs/zhangsiyu/miniconda3/envs/cogvideox/lib/python3.10/site-packages/transformers/modeling_utils.py", line 5468, in _load_pretrained_model
+  File "/mnt/petrelfs/zhangsiyu/miniconda3/envs/cogvideox/lib/python3.10/site-packages/transformers/modeling_utils.py", line 5468, in _load_pretrained_model
+
+
+  File "/mnt/petrelfs/zhangsiyu/miniconda3/envs/cogvideox/lib/python3.10/site-packages/transformers/modeling_utils.py", line 5468, in _load_pretrained_model
+  File "/mnt/petrelfs/zhangsiyu/miniconda3/envs/cogvideox/lib/python3.10/site-packages/transformers/modeling_utils.py", line 5468, in _load_pretrained_model
+                _error_msgs, disk_offload_index = load_shard_file(args)_error_msgs, disk_offload_index = load_shard_file(args)_error_msgs, disk_offload_index = load_shard_file(args)
+
+
+_error_msgs, disk_offload_index = load_shard_file(args)  File "/mnt/petrelfs/zhangsiyu/miniconda3/envs/cogvideox/lib/python3.10/site-packages/transformers/modeling_utils.py", line 831, in load_shard_file
+  File "/mnt/petrelfs/zhangsiyu/miniconda3/envs/cogvideox/lib/python3.10/site-packages/transformers/modeling_utils.py", line 831, in load_shard_file
+  File "/mnt/petrelfs/zhangsiyu/miniconda3/envs/cogvideox/lib/python3.10/site-packages/transformers/modeling_utils.py", line 831, in load_shard_file
+
+      File "/mnt/petrelfs/zhangsiyu/miniconda3/envs/cogvideox/lib/python3.10/site-packages/transformers/modeling_utils.py", line 831, in load_shard_file
+    _error_msgs, disk_offload_index = load_shard_file(args)    
+_error_msgs, disk_offload_index = load_shard_file(args)
+  File "/mnt/petrelfs/zhangsiyu/miniconda3/envs/cogvideox/lib/python3.10/site-packages/transformers/modeling_utils.py", line 831, in load_shard_file
+_error_msgs, disk_offload_index = load_shard_file(args)  File "/mnt/petrelfs/zhangsiyu/miniconda3/envs/cogvideox/lib/python3.10/site-packages/transformers/modeling_utils.py", line 831, in load_shard_file
+
+  File "/mnt/petrelfs/zhangsiyu/miniconda3/envs/cogvideox/lib/python3.10/site-packages/transformers/modeling_utils.py", line 831, in load_shard_file
+    _error_msgs, disk_offload_index = load_shard_file(args)    
+        state_dict = load_state_dict(    state_dict = load_state_dict(  File "/mnt/petrelfs/zhangsiyu/miniconda3/envs/cogvideox/lib/python3.10/site-packages/transformers/modeling_utils.py", line 831, in load_shard_file
+state_dict = load_state_dict(
+
+state_dict = load_state_dict(
+  File "/mnt/petrelfs/zhangsiyu/miniconda3/envs/cogvideox/lib/python3.10/site-packages/transformers/modeling_utils.py", line 484, in load_state_dict
+  File "/mnt/petrelfs/zhangsiyu/miniconda3/envs/cogvideox/lib/python3.10/site-packages/transformers/modeling_utils.py", line 484, in load_state_dict
+
+  File "/mnt/petrelfs/zhangsiyu/miniconda3/envs/cogvideox/lib/python3.10/site-packages/transformers/modeling_utils.py", line 484, in load_state_dict
+  File "/mnt/petrelfs/zhangsiyu/miniconda3/envs/cogvideox/lib/python3.10/site-packages/transformers/modeling_utils.py", line 484, in load_state_dict
+    state_dict = load_state_dict(    
+state_dict = load_state_dict(  File "/mnt/petrelfs/zhangsiyu/miniconda3/envs/cogvideox/lib/python3.10/site-packages/transformers/modeling_utils.py", line 484, in load_state_dict
+
+  File "/mnt/petrelfs/zhangsiyu/miniconda3/envs/cogvideox/lib/python3.10/site-packages/transformers/modeling_utils.py", line 484, in load_state_dict
+        with safe_open(checkpoint_file, framework="pt") as f:with safe_open(checkpoint_file, framework="pt") as f:
+
+    safetensors_rustsafetensors_rustwith safe_open(checkpoint_file, framework="pt") as f:.    .
+SafetensorErrorSafetensorError    with safe_open(checkpoint_file, framework="pt") as f:    safetensors_rust: : 
+with safe_open(checkpoint_file, framework="pt") as f:.    Error while deserializing header: incomplete metadata, file not fully coveredError while deserializing header: incomplete metadata, file not fully covered
+SafetensorErrorsafetensors_rust
+
+state_dict = load_state_dict(: .safetensors_rust
+state_dict = load_state_dict(Error while deserializing header: incomplete metadata, file not fully coveredSafetensorError.  File "/mnt/petrelfs/zhangsiyu/miniconda3/envs/cogvideox/lib/python3.10/site-packages/transformers/modeling_utils.py", line 484, in load_state_dict
+
+: 
+SafetensorErrorError while deserializing header: incomplete metadata, file not fully covered: 
+  File "/mnt/petrelfs/zhangsiyu/miniconda3/envs/cogvideox/lib/python3.10/site-packages/transformers/modeling_utils.py", line 484, in load_state_dict
+Error while deserializing header: incomplete metadata, file not fully covered
+    with safe_open(checkpoint_file, framework="pt") as f:
+safetensors_rust.SafetensorError    : with safe_open(checkpoint_file, framework="pt") as f:Error while deserializing header: incomplete metadata, file not fully covered
+
+safetensors_rust.SafetensorError: Error while deserializing header: incomplete metadata, file not fully covered
+    with safe_open(checkpoint_file, framework="pt") as f:
+safetensors_rust.SafetensorError: Error while deserializing header: incomplete metadata, file not fully covered
+W0120 16:56:15.308000 77328 site-packages/torch/distributed/elastic/multiprocessing/api.py:908] Sending process 84343 closing signal SIGTERM
+W0120 16:56:15.314000 77328 site-packages/torch/distributed/elastic/multiprocessing/api.py:908] Sending process 84344 closing signal SIGTERM
+W0120 16:56:15.314000 77328 site-packages/torch/distributed/elastic/multiprocessing/api.py:908] Sending process 84345 closing signal SIGTERM
+W0120 16:56:15.314000 77328 site-packages/torch/distributed/elastic/multiprocessing/api.py:908] Sending process 84347 closing signal SIGTERM
+W0120 16:56:15.314000 77328 site-packages/torch/distributed/elastic/multiprocessing/api.py:908] Sending process 84348 closing signal SIGTERM
+W0120 16:56:15.314000 77328 site-packages/torch/distributed/elastic/multiprocessing/api.py:908] Sending process 84349 closing signal SIGTERM
+W0120 16:56:15.314000 77328 site-packages/torch/distributed/elastic/multiprocessing/api.py:908] Sending process 84350 closing signal SIGTERM
+E0120 16:56:15.347000 77328 site-packages/torch/distributed/elastic/multiprocessing/api.py:882] failed (exitcode: 1) local_rank: 3 (pid: 84346) of binary: /mnt/petrelfs/zhangsiyu/miniconda3/envs/cogvideox/bin/python3.10
+Traceback (most recent call last):
+  File "/mnt/petrelfs/zhangsiyu/miniconda3/envs/cogvideox/bin/accelerate", line 7, in <module>
+    sys.exit(main())
+  File "/mnt/petrelfs/zhangsiyu/miniconda3/envs/cogvideox/lib/python3.10/site-packages/accelerate/commands/accelerate_cli.py", line 50, in main
+    args.func(args)
+  File "/mnt/petrelfs/zhangsiyu/miniconda3/envs/cogvideox/lib/python3.10/site-packages/accelerate/commands/launch.py", line 1266, in launch_command
+    deepspeed_launcher(args)
+  File "/mnt/petrelfs/zhangsiyu/miniconda3/envs/cogvideox/lib/python3.10/site-packages/accelerate/commands/launch.py", line 952, in deepspeed_launcher
+    distrib_run.run(args)
+  File "/mnt/petrelfs/zhangsiyu/miniconda3/envs/cogvideox/lib/python3.10/site-packages/torch/distributed/run.py", line 927, in run
+    elastic_launch(
+  File "/mnt/petrelfs/zhangsiyu/miniconda3/envs/cogvideox/lib/python3.10/site-packages/torch/distributed/launcher/api.py", line 156, in __call__
+    return launch_agent(self._config, self._entrypoint, list(args))
+  File "/mnt/petrelfs/zhangsiyu/miniconda3/envs/cogvideox/lib/python3.10/site-packages/torch/distributed/launcher/api.py", line 293, in launch_agent
+    raise ChildFailedError(
+torch.distributed.elastic.multiprocessing.errors.ChildFailedError: 
+============================================================
+train.py FAILED
+------------------------------------------------------------
+Failures:
+  <NO_OTHER_FAILURES>
+------------------------------------------------------------
+Root Cause (first observed failure):
+[0]:
+  time      : 2026-01-20_16:56:15
+  host      : HOST-10-140-60-115
+  rank      : 3 (local_rank: 3)
+  exitcode  : 1 (pid: 84346)
+  error_file: <N/A>
+  traceback : To enable traceback see: https://pytorch.org/docs/stable/elastic/errors.html
+============================================================
+srun: error: HOST-10-140-60-115: task 0: Exited with exit code 1
