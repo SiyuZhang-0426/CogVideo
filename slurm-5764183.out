@@ -1,0 +1,619 @@
+15:4: not a valid test operator:  
+15:4: not a valid test operator: 12.4
+21:4: not a valid test operator: (
+21:4: not a valid test operator: 550.90.07
+W0120 22:08:43.017000 7883 site-packages/torch/distributed/run.py:803] 
+W0120 22:08:43.017000 7883 site-packages/torch/distributed/run.py:803] *****************************************
+W0120 22:08:43.017000 7883 site-packages/torch/distributed/run.py:803] Setting OMP_NUM_THREADS environment variable for each process to be 1 in default, to avoid your system being overloaded, please further tune the variable for optimal performance in your application as needed. 
+W0120 22:08:43.017000 7883 site-packages/torch/distributed/run.py:803] *****************************************
+You set `add_prefix_space`. The tokenizer needs to be converted from the slow tokenizers
+You set `add_prefix_space`. The tokenizer needs to be converted from the slow tokenizers
+You set `add_prefix_space`. The tokenizer needs to be converted from the slow tokenizers
+You set `add_prefix_space`. The tokenizer needs to be converted from the slow tokenizers
+You set `add_prefix_space`. The tokenizer needs to be converted from the slow tokenizers
+You set `add_prefix_space`. The tokenizer needs to be converted from the slow tokenizers
+You set `add_prefix_space`. The tokenizer needs to be converted from the slow tokenizers
+You set `add_prefix_space`. The tokenizer needs to be converted from the slow tokenizers
+Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]Loading checkpoint shards:  25%|██▌       | 1/4 [00:00<00:01,  2.97it/s]Loading checkpoint shards:  25%|██▌       | 1/4 [00:00<00:01,  2.97it/s]Loading checkpoint shards:  25%|██▌       | 1/4 [00:00<00:00,  3.46it/s]Loading checkpoint shards:  25%|██▌       | 1/4 [00:00<00:01,  2.96it/s]Loading checkpoint shards:  25%|██▌       | 1/4 [00:00<00:01,  2.96it/s]Loading checkpoint shards:  25%|██▌       | 1/4 [00:00<00:01,  2.99it/s]Loading checkpoint shards:  25%|██▌       | 1/4 [00:00<00:01,  2.96it/s]Loading checkpoint shards:  25%|██▌       | 1/4 [00:00<00:01,  2.97it/s]Loading checkpoint shards:  50%|█████     | 2/4 [00:00<00:00,  3.02it/s]Loading checkpoint shards:  50%|█████     | 2/4 [00:00<00:00,  3.04it/s]Loading checkpoint shards:  50%|█████     | 2/4 [00:00<00:00,  3.02it/s]Loading checkpoint shards:  50%|█████     | 2/4 [00:00<00:00,  3.02it/s]Loading checkpoint shards:  50%|█████     | 2/4 [00:00<00:00,  3.02it/s]Loading checkpoint shards:  50%|█████     | 2/4 [00:00<00:00,  3.02it/s]Loading checkpoint shards:  50%|█████     | 2/4 [00:00<00:00,  3.21it/s]Loading checkpoint shards:  50%|█████     | 2/4 [00:00<00:00,  3.02it/s]Loading checkpoint shards:  75%|███████▌  | 3/4 [00:00<00:00,  3.21it/s]Loading checkpoint shards:  75%|███████▌  | 3/4 [00:00<00:00,  3.21it/s]Loading checkpoint shards:  75%|███████▌  | 3/4 [00:00<00:00,  3.21it/s]Loading checkpoint shards:  75%|███████▌  | 3/4 [00:00<00:00,  3.21it/s]Loading checkpoint shards:  75%|███████▌  | 3/4 [00:00<00:00,  3.32it/s]Loading checkpoint shards:  75%|███████▌  | 3/4 [00:00<00:00,  3.20it/s]Loading checkpoint shards:  75%|███████▌  | 3/4 [00:00<00:00,  3.20it/s]Loading checkpoint shards:  75%|███████▌  | 3/4 [00:00<00:00,  3.19it/s]Loading checkpoint shards: 100%|██████████| 4/4 [00:01<00:00,  3.46it/s]Loading checkpoint shards: 100%|██████████| 4/4 [00:01<00:00,  3.46it/s]Loading checkpoint shards: 100%|██████████| 4/4 [00:01<00:00,  3.54it/s]Loading checkpoint shards: 100%|██████████| 4/4 [00:01<00:00,  3.46it/s]Loading checkpoint shards: 100%|██████████| 4/4 [00:01<00:00,  3.47it/s]Loading checkpoint shards: 100%|██████████| 4/4 [00:01<00:00,  3.31it/s]Loading checkpoint shards: 100%|██████████| 4/4 [00:01<00:00,  3.46it/s]Loading checkpoint shards: 100%|██████████| 4/4 [00:01<00:00,  3.31it/s]Loading checkpoint shards: 100%|██████████| 4/4 [00:01<00:00,  3.45it/s]
+
+
+Loading checkpoint shards: 100%|██████████| 4/4 [00:01<00:00,  3.31it/s]
+Loading checkpoint shards: 100%|██████████| 4/4 [00:01<00:00,  3.31it/s]
+Loading checkpoint shards: 100%|██████████| 4/4 [00:01<00:00,  3.31it/s]
+Loading checkpoint shards: 100%|██████████| 4/4 [00:01<00:00,  3.46it/s]Loading checkpoint shards: 100%|██████████| 4/4 [00:01<00:00,  3.31it/s]
+Loading checkpoint shards: 100%|██████████| 4/4 [00:01<00:00,  3.46it/s]Loading checkpoint shards: 100%|██████████| 4/4 [00:01<00:00,  3.32it/s]
+Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]Loading checkpoint shards:  33%|███▎      | 1/3 [00:07<00:14,  7.22s/it]Loading checkpoint shards:  33%|███▎      | 1/3 [00:07<00:15,  7.62s/it]Loading checkpoint shards:  33%|███▎      | 1/3 [00:07<00:15,  7.62s/it]Loading checkpoint shards:  33%|███▎      | 1/3 [00:07<00:15,  7.63s/it]Loading checkpoint shards:  33%|███▎      | 1/3 [00:07<00:15,  7.63s/it]Loading checkpoint shards:  33%|███▎      | 1/3 [00:07<00:15,  7.62s/it]Loading checkpoint shards:  33%|███▎      | 1/3 [00:07<00:15,  7.62s/it]Loading checkpoint shards:  33%|███▎      | 1/3 [00:07<00:15,  7.63s/it]Loading checkpoint shards:  67%|██████▋   | 2/3 [00:14<00:07,  7.18s/it]Loading checkpoint shards:  67%|██████▋   | 2/3 [00:14<00:07,  7.42s/it]Loading checkpoint shards:  67%|██████▋   | 2/3 [00:14<00:07,  7.42s/it]Loading checkpoint shards:  67%|██████▋   | 2/3 [00:14<00:07,  7.42s/it]Loading checkpoint shards:  67%|██████▋   | 2/3 [00:14<00:07,  7.42s/it]Loading checkpoint shards:  67%|██████▋   | 2/3 [00:14<00:07,  7.42s/it]Loading checkpoint shards:  67%|██████▋   | 2/3 [00:14<00:07,  7.42s/it]Loading checkpoint shards:  67%|██████▋   | 2/3 [00:14<00:07,  7.42s/it]Loading checkpoint shards: 100%|██████████| 3/3 [00:16<00:00,  4.73s/it]Loading checkpoint shards: 100%|██████████| 3/3 [00:16<00:00,  5.47s/it]
+Loading checkpoint shards: 100%|██████████| 3/3 [00:16<00:00,  4.79s/it]Loading checkpoint shards: 100%|██████████| 3/3 [00:16<00:00,  4.79s/it]Loading checkpoint shards: 100%|██████████| 3/3 [00:16<00:00,  4.90s/it]Loading checkpoint shards: 100%|██████████| 3/3 [00:16<00:00,  4.79s/it]Loading checkpoint shards: 100%|██████████| 3/3 [00:16<00:00,  5.52s/it]Loading checkpoint shards: 100%|██████████| 3/3 [00:16<00:00,  5.52s/it]
+
+Loading checkpoint shards: 100%|██████████| 3/3 [00:16<00:00,  5.52s/it]
+Loading checkpoint shards: 100%|██████████| 3/3 [00:16<00:00,  5.52s/it]
+Loading checkpoint shards: 100%|██████████| 3/3 [00:16<00:00,  4.79s/it]Loading checkpoint shards: 100%|██████████| 3/3 [00:16<00:00,  4.79s/it]Loading checkpoint shards: 100%|██████████| 3/3 [00:16<00:00,  5.52s/it]
+Loading checkpoint shards: 100%|██████████| 3/3 [00:16<00:00,  4.79s/it]Loading checkpoint shards: 100%|██████████| 3/3 [00:16<00:00,  5.52s/it]
+Loading checkpoint shards: 100%|██████████| 3/3 [00:16<00:00,  5.52s/it]
+Detected kernel version 3.10.0, which is below the recommended minimum of 5.5.0; this can cause the process to hang. It is recommended to upgrade the kernel to the minimum version or higher.
+01/20/2026 22:09:42 - INFO - trainer - Accelerator state: 
+Distributed environment: DEEPSPEED  Backend: nccl
+Num processes: 8
+Process index: 2
+Local process index: 2
+Device: cuda:2
+
+Mixed precision type: bf16
+ds_config: {'bf16': {'enabled': True}, 'optimizer': {'type': 'AdamW', 'params': {'lr': 'auto', 'weight_decay': 'auto', 'torch_adam': True, 'adam_w_mode': True}}, 'scheduler': {'type': 'WarmupDecayLR', 'params': {'warmup_min_lr': 'auto', 'warmup_max_lr': 'auto', 'warmup_num_steps': 'auto', 'total_num_steps': 'auto'}}, 'zero_optimization': {'stage': 2, 'allgather_partitions': True, 'allgather_bucket_size': 200000000.0, 'overlap_comm': True, 'reduce_scatter': True, 'reduce_bucket_size': 500000000.0, 'contiguous_gradients': True}, 'gradient_accumulation_steps': 1, 'train_micro_batch_size_per_gpu': 1, 'train_batch_size': 'auto', 'gradient_clipping': 'auto', 'steps_per_print': inf, 'wall_clock_breakdown': False, 'fp16': {'enabled': False}}
+
+01/20/2026 22:09:42 - INFO - trainer - Accelerator state: 
+Distributed environment: DEEPSPEED  Backend: nccl
+Num processes: 8
+Process index: 1
+Local process index: 1
+Device: cuda:1
+
+Mixed precision type: bf16
+ds_config: {'bf16': {'enabled': True}, 'optimizer': {'type': 'AdamW', 'params': {'lr': 'auto', 'weight_decay': 'auto', 'torch_adam': True, 'adam_w_mode': True}}, 'scheduler': {'type': 'WarmupDecayLR', 'params': {'warmup_min_lr': 'auto', 'warmup_max_lr': 'auto', 'warmup_num_steps': 'auto', 'total_num_steps': 'auto'}}, 'zero_optimization': {'stage': 2, 'allgather_partitions': True, 'allgather_bucket_size': 200000000.0, 'overlap_comm': True, 'reduce_scatter': True, 'reduce_bucket_size': 500000000.0, 'contiguous_gradients': True}, 'gradient_accumulation_steps': 1, 'train_micro_batch_size_per_gpu': 1, 'train_batch_size': 'auto', 'gradient_clipping': 'auto', 'steps_per_print': inf, 'wall_clock_breakdown': False, 'fp16': {'enabled': False}}
+
+01/20/2026 22:09:42 - INFO - trainer - Accelerator state: 
+Distributed environment: DEEPSPEED  Backend: nccl
+Num processes: 8
+Process index: 6
+Local process index: 6
+Device: cuda:6
+
+Mixed precision type: bf16
+ds_config: {'bf16': {'enabled': True}, 'optimizer': {'type': 'AdamW', 'params': {'lr': 'auto', 'weight_decay': 'auto', 'torch_adam': True, 'adam_w_mode': True}}, 'scheduler': {'type': 'WarmupDecayLR', 'params': {'warmup_min_lr': 'auto', 'warmup_max_lr': 'auto', 'warmup_num_steps': 'auto', 'total_num_steps': 'auto'}}, 'zero_optimization': {'stage': 2, 'allgather_partitions': True, 'allgather_bucket_size': 200000000.0, 'overlap_comm': True, 'reduce_scatter': True, 'reduce_bucket_size': 500000000.0, 'contiguous_gradients': True}, 'gradient_accumulation_steps': 1, 'train_micro_batch_size_per_gpu': 1, 'train_batch_size': 'auto', 'gradient_clipping': 'auto', 'steps_per_print': inf, 'wall_clock_breakdown': False, 'fp16': {'enabled': False}}
+
+01/20/2026 22:09:42 - INFO - trainer - Accelerator state: 
+Distributed environment: DEEPSPEED  Backend: nccl
+Num processes: 8
+Process index: 3
+Local process index: 3
+Device: cuda:3
+
+Mixed precision type: bf16
+ds_config: {'bf16': {'enabled': True}, 'optimizer': {'type': 'AdamW', 'params': {'lr': 'auto', 'weight_decay': 'auto', 'torch_adam': True, 'adam_w_mode': True}}, 'scheduler': {'type': 'WarmupDecayLR', 'params': {'warmup_min_lr': 'auto', 'warmup_max_lr': 'auto', 'warmup_num_steps': 'auto', 'total_num_steps': 'auto'}}, 'zero_optimization': {'stage': 2, 'allgather_partitions': True, 'allgather_bucket_size': 200000000.0, 'overlap_comm': True, 'reduce_scatter': True, 'reduce_bucket_size': 500000000.0, 'contiguous_gradients': True}, 'gradient_accumulation_steps': 1, 'train_micro_batch_size_per_gpu': 1, 'train_batch_size': 'auto', 'gradient_clipping': 'auto', 'steps_per_print': inf, 'wall_clock_breakdown': False, 'fp16': {'enabled': False}}
+
+01/20/2026 22:09:42 - INFO - trainer - Accelerator state: 
+Distributed environment: DEEPSPEED  Backend: nccl
+Num processes: 8
+Process index: 4
+Local process index: 4
+Device: cuda:4
+
+Mixed precision type: bf16
+ds_config: {'bf16': {'enabled': True}, 'optimizer': {'type': 'AdamW', 'params': {'lr': 'auto', 'weight_decay': 'auto', 'torch_adam': True, 'adam_w_mode': True}}, 'scheduler': {'type': 'WarmupDecayLR', 'params': {'warmup_min_lr': 'auto', 'warmup_max_lr': 'auto', 'warmup_num_steps': 'auto', 'total_num_steps': 'auto'}}, 'zero_optimization': {'stage': 2, 'allgather_partitions': True, 'allgather_bucket_size': 200000000.0, 'overlap_comm': True, 'reduce_scatter': True, 'reduce_bucket_size': 500000000.0, 'contiguous_gradients': True}, 'gradient_accumulation_steps': 1, 'train_micro_batch_size_per_gpu': 1, 'train_batch_size': 'auto', 'gradient_clipping': 'auto', 'steps_per_print': inf, 'wall_clock_breakdown': False, 'fp16': {'enabled': False}}
+
+01/20/2026 22:09:42 - INFO - trainer - Accelerator state: 
+Distributed environment: DEEPSPEED  Backend: nccl
+Num processes: 8
+Process index: 5
+Local process index: 5
+Device: cuda:5
+
+Mixed precision type: bf16
+ds_config: {'bf16': {'enabled': True}, 'optimizer': {'type': 'AdamW', 'params': {'lr': 'auto', 'weight_decay': 'auto', 'torch_adam': True, 'adam_w_mode': True}}, 'scheduler': {'type': 'WarmupDecayLR', 'params': {'warmup_min_lr': 'auto', 'warmup_max_lr': 'auto', 'warmup_num_steps': 'auto', 'total_num_steps': 'auto'}}, 'zero_optimization': {'stage': 2, 'allgather_partitions': True, 'allgather_bucket_size': 200000000.0, 'overlap_comm': True, 'reduce_scatter': True, 'reduce_bucket_size': 500000000.0, 'contiguous_gradients': True}, 'gradient_accumulation_steps': 1, 'train_micro_batch_size_per_gpu': 1, 'train_batch_size': 'auto', 'gradient_clipping': 'auto', 'steps_per_print': inf, 'wall_clock_breakdown': False, 'fp16': {'enabled': False}}
+
+01/20/2026 22:09:42 - INFO - trainer - Initialized Trainer
+01/20/2026 22:09:42 - INFO - trainer - Accelerator state: 
+Distributed environment: DEEPSPEED  Backend: nccl
+Num processes: 8
+Process index: 7
+Local process index: 7
+Device: cuda:7
+
+Mixed precision type: bf16
+ds_config: {'bf16': {'enabled': True}, 'optimizer': {'type': 'AdamW', 'params': {'lr': 'auto', 'weight_decay': 'auto', 'torch_adam': True, 'adam_w_mode': True}}, 'scheduler': {'type': 'WarmupDecayLR', 'params': {'warmup_min_lr': 'auto', 'warmup_max_lr': 'auto', 'warmup_num_steps': 'auto', 'total_num_steps': 'auto'}}, 'zero_optimization': {'stage': 2, 'allgather_partitions': True, 'allgather_bucket_size': 200000000.0, 'overlap_comm': True, 'reduce_scatter': True, 'reduce_bucket_size': 500000000.0, 'contiguous_gradients': True}, 'gradient_accumulation_steps': 1, 'train_micro_batch_size_per_gpu': 1, 'train_batch_size': 'auto', 'gradient_clipping': 'auto', 'steps_per_print': inf, 'wall_clock_breakdown': False, 'fp16': {'enabled': False}}
+
+01/20/2026 22:09:42 - INFO - trainer - Accelerator state: 
+Distributed environment: DEEPSPEED  Backend: nccl
+Num processes: 8
+Process index: 0
+Local process index: 0
+Device: cuda:0
+
+Mixed precision type: bf16
+ds_config: {'bf16': {'enabled': True}, 'optimizer': {'type': 'AdamW', 'params': {'lr': 'auto', 'weight_decay': 'auto', 'torch_adam': True, 'adam_w_mode': True}}, 'scheduler': {'type': 'WarmupDecayLR', 'params': {'warmup_min_lr': 'auto', 'warmup_max_lr': 'auto', 'warmup_num_steps': 'auto', 'total_num_steps': 'auto'}}, 'zero_optimization': {'stage': 2, 'allgather_partitions': True, 'allgather_bucket_size': 200000000.0, 'overlap_comm': True, 'reduce_scatter': True, 'reduce_bucket_size': 500000000.0, 'contiguous_gradients': True}, 'gradient_accumulation_steps': 1, 'train_micro_batch_size_per_gpu': 1, 'train_batch_size': 'auto', 'gradient_clipping': 'auto', 'steps_per_print': inf, 'wall_clock_breakdown': False, 'fp16': {'enabled': False}}
+
+01/20/2026 22:09:42 - INFO - trainer - Initializing models
+01/20/2026 22:09:42 - INFO - trainer - Initializing dataset and dataloader
+01/20/2026 22:10:04 - INFO - trainer - Precomputing latent for video and prompt embedding ...
+01/20/2026 22:10:05 - INFO - trainer - Saved prompt embedding to /mnt/petrelfs/zhangsiyu/4dgen/CogVideo/Disney-VideoGeneration-Dataset/cache/prompt_embeddings/607232454314f0588eadd9dbbc36997b106cf69093a90c8ed3937e1851db902c.safetensors
+01/20/2026 22:10:05 - INFO - trainer - Saved prompt embedding to /mnt/petrelfs/zhangsiyu/4dgen/CogVideo/Disney-VideoGeneration-Dataset/cache/prompt_embeddings/524f944692b28d034f321ac6736520b3c87afd3ae1d914d3e3981da92f6e2e85.safetensors
+01/20/2026 22:10:05 - INFO - trainer - Saved prompt embedding to /mnt/petrelfs/zhangsiyu/4dgen/CogVideo/Disney-VideoGeneration-Dataset/cache/prompt_embeddings/da9e34aaa78c655c8141922094b017b9d69ba7e45ff71b669fad8a4edcc70da8.safetensors
+01/20/2026 22:10:05 - INFO - trainer - Saved prompt embedding to /mnt/petrelfs/zhangsiyu/4dgen/CogVideo/Disney-VideoGeneration-Dataset/cache/prompt_embeddings/a19763ac0dc53f2682dceeba1515972d9b4912098676bc87b561980b554f947f.safetensors
+01/20/2026 22:10:05 - INFO - trainer - Saved prompt embedding to /mnt/petrelfs/zhangsiyu/4dgen/CogVideo/Disney-VideoGeneration-Dataset/cache/prompt_embeddings/3dd46e7262a3473aaad2685b0cd6e3efc8d90324661b4d5eafecf43591ef9caa.safetensors
+01/20/2026 22:10:05 - INFO - trainer - Saved prompt embedding to /mnt/petrelfs/zhangsiyu/4dgen/CogVideo/Disney-VideoGeneration-Dataset/cache/prompt_embeddings/21e4cb4e4eaf70032a0624b7a9d36d68d9e1246ee604e11cf93a4e4e286f20c9.safetensors
+01/20/2026 22:10:05 - INFO - trainer - Saved prompt embedding to /mnt/petrelfs/zhangsiyu/4dgen/CogVideo/Disney-VideoGeneration-Dataset/cache/prompt_embeddings/f821392c820563d01340f9e3a0fb68d3c8bffb032f631449d459ec9039e8b683.safetensors
+01/20/2026 22:10:05 - INFO - trainer - Saved prompt embedding to /mnt/petrelfs/zhangsiyu/4dgen/CogVideo/Disney-VideoGeneration-Dataset/cache/prompt_embeddings/f6f14e98178672586dd8b8a348c2dfbd2817425ce785ed9b0fafbb82d6015a8c.safetensors
+01/20/2026 22:10:38 - INFO - trainer - Saved encoded video to /mnt/petrelfs/zhangsiyu/4dgen/CogVideo/Disney-VideoGeneration-Dataset/cache/video_latent/cogvideox1.5-t2v/81x768x1360/907704ed979d5e5651fac98ccbec2d4b.safetensors
+01/20/2026 22:10:38 - INFO - trainer - Saved encoded video to /mnt/petrelfs/zhangsiyu/4dgen/CogVideo/Disney-VideoGeneration-Dataset/cache/video_latent/cogvideox1.5-t2v/81x768x1360/328fc12cf9cf3d540e67efadeb893f61.safetensors
+01/20/2026 22:10:38 - INFO - trainer - Saved prompt embedding to /mnt/petrelfs/zhangsiyu/4dgen/CogVideo/Disney-VideoGeneration-Dataset/cache/prompt_embeddings/a23dfe79fa0e00910c95664151e308a98d86f1de5fa64ce53dac54f256a2f0ee.safetensors
+01/20/2026 22:10:38 - INFO - trainer - Saved prompt embedding to /mnt/petrelfs/zhangsiyu/4dgen/CogVideo/Disney-VideoGeneration-Dataset/cache/prompt_embeddings/5e5e6138aec7fe53ff67077d6b5562a4d266d78ab571416ea5e1d1c0fb969c15.safetensors
+01/20/2026 22:10:38 - INFO - trainer - Saved encoded video to /mnt/petrelfs/zhangsiyu/4dgen/CogVideo/Disney-VideoGeneration-Dataset/cache/video_latent/cogvideox1.5-t2v/81x768x1360/bf06573576ae0ea4d27a178b4d6e95a1.safetensors
+01/20/2026 22:10:38 - INFO - trainer - Saved encoded video to /mnt/petrelfs/zhangsiyu/4dgen/CogVideo/Disney-VideoGeneration-Dataset/cache/video_latent/cogvideox1.5-t2v/81x768x1360/4adbb3a2945c9edd78785daccfd23e80.safetensors
+01/20/2026 22:10:38 - INFO - trainer - Saved encoded video to /mnt/petrelfs/zhangsiyu/4dgen/CogVideo/Disney-VideoGeneration-Dataset/cache/video_latent/cogvideox1.5-t2v/81x768x1360/a3c275fc2eb0a67168a7c58a6a9adb14.safetensors
+01/20/2026 22:10:38 - INFO - trainer - Saved prompt embedding to /mnt/petrelfs/zhangsiyu/4dgen/CogVideo/Disney-VideoGeneration-Dataset/cache/prompt_embeddings/e00e99df87e087f7c1f10b94df49f936b898a59e6177ce0e6ff34383048f3564.safetensors
+01/20/2026 22:10:38 - INFO - trainer - Saved encoded video to /mnt/petrelfs/zhangsiyu/4dgen/CogVideo/Disney-VideoGeneration-Dataset/cache/video_latent/cogvideox1.5-t2v/81x768x1360/96d342ea7c7cfddbe1106072bc34be5a.safetensors
+01/20/2026 22:10:38 - INFO - trainer - Saved prompt embedding to /mnt/petrelfs/zhangsiyu/4dgen/CogVideo/Disney-VideoGeneration-Dataset/cache/prompt_embeddings/15afaa9339f1973beddfaf11a7ebf8bc1a915ef264b668df5a6c9588f4d189ae.safetensors
+01/20/2026 22:10:38 - INFO - trainer - Saved prompt embedding to /mnt/petrelfs/zhangsiyu/4dgen/CogVideo/Disney-VideoGeneration-Dataset/cache/prompt_embeddings/cde20ccc7fbc0eebbef6aa17f32618554127de7d5c074aea10b059ba5511953e.safetensors
+01/20/2026 22:10:38 - INFO - trainer - Saved prompt embedding to /mnt/petrelfs/zhangsiyu/4dgen/CogVideo/Disney-VideoGeneration-Dataset/cache/prompt_embeddings/cc5bbf580eef0bc5016eab3f4aa983a2ef862067f1bcecfe0aa3c8f2cb939ab5.safetensors
+01/20/2026 22:10:38 - INFO - trainer - Saved encoded video to /mnt/petrelfs/zhangsiyu/4dgen/CogVideo/Disney-VideoGeneration-Dataset/cache/video_latent/cogvideox1.5-t2v/81x768x1360/6619a387964ad49eb1127079d25d17d8.safetensors
+01/20/2026 22:10:38 - INFO - trainer - Saved encoded video to /mnt/petrelfs/zhangsiyu/4dgen/CogVideo/Disney-VideoGeneration-Dataset/cache/video_latent/cogvideox1.5-t2v/81x768x1360/8ae679ab483ab344c881d4a813e0cb51.safetensors
+01/20/2026 22:10:38 - INFO - trainer - Saved prompt embedding to /mnt/petrelfs/zhangsiyu/4dgen/CogVideo/Disney-VideoGeneration-Dataset/cache/prompt_embeddings/f78ca6975c28ac8c96075cf6311adc953d62652e07b12240a1734518547d73bb.safetensors
+01/20/2026 22:10:39 - INFO - trainer - Saved prompt embedding to /mnt/petrelfs/zhangsiyu/4dgen/CogVideo/Disney-VideoGeneration-Dataset/cache/prompt_embeddings/e5e2c378af00164aea0172d0148c7bb6fc7bbb1130d72463c797e19d39bb24d4.safetensors
+01/20/2026 22:11:10 - INFO - trainer - Saved encoded video to /mnt/petrelfs/zhangsiyu/4dgen/CogVideo/Disney-VideoGeneration-Dataset/cache/video_latent/cogvideox1.5-t2v/81x768x1360/cb227eefdfcbcd3db945131b1d153273.safetensors
+01/20/2026 22:11:10 - INFO - trainer - Saved encoded video to /mnt/petrelfs/zhangsiyu/4dgen/CogVideo/Disney-VideoGeneration-Dataset/cache/video_latent/cogvideox1.5-t2v/81x768x1360/ec80a7b9cfb3740e5cdf9300fdc8d8a9.safetensors
+01/20/2026 22:11:10 - INFO - trainer - Saved prompt embedding to /mnt/petrelfs/zhangsiyu/4dgen/CogVideo/Disney-VideoGeneration-Dataset/cache/prompt_embeddings/8c91045d42e8c5f6941d2c5853e8615d1aedfe9669901dadaf2ed13ecb3a4a40.safetensors
+01/20/2026 22:11:10 - INFO - trainer - Saved prompt embedding to /mnt/petrelfs/zhangsiyu/4dgen/CogVideo/Disney-VideoGeneration-Dataset/cache/prompt_embeddings/5a806152225ef568d6735d181fde9c77e04fb3aba684af800aa502a9e1c2851b.safetensors
+01/20/2026 22:11:10 - INFO - trainer - Saved encoded video to /mnt/petrelfs/zhangsiyu/4dgen/CogVideo/Disney-VideoGeneration-Dataset/cache/video_latent/cogvideox1.5-t2v/81x768x1360/05ccfa61ece031e881d173289761cf91.safetensors
+01/20/2026 22:11:10 - INFO - trainer - Saved encoded video to /mnt/petrelfs/zhangsiyu/4dgen/CogVideo/Disney-VideoGeneration-Dataset/cache/video_latent/cogvideox1.5-t2v/81x768x1360/c4903e10393ef7c42fc8131f05f3f233.safetensors
+01/20/2026 22:11:10 - INFO - trainer - Saved encoded video to /mnt/petrelfs/zhangsiyu/4dgen/CogVideo/Disney-VideoGeneration-Dataset/cache/video_latent/cogvideox1.5-t2v/81x768x1360/1151c01bd77450dfc603a2eb7352822e.safetensors
+01/20/2026 22:11:10 - INFO - trainer - Saved prompt embedding to /mnt/petrelfs/zhangsiyu/4dgen/CogVideo/Disney-VideoGeneration-Dataset/cache/prompt_embeddings/f10a231fa1cd7c20abf09760cbbb8c750901d0d9a08d2a3f8da6c47818cdaca8.safetensors
+01/20/2026 22:11:10 - INFO - trainer - Saved encoded video to /mnt/petrelfs/zhangsiyu/4dgen/CogVideo/Disney-VideoGeneration-Dataset/cache/video_latent/cogvideox1.5-t2v/81x768x1360/7fe0c83572de828da1cab0c118dece14.safetensors
+01/20/2026 22:11:10 - INFO - trainer - Saved prompt embedding to /mnt/petrelfs/zhangsiyu/4dgen/CogVideo/Disney-VideoGeneration-Dataset/cache/prompt_embeddings/7d7d7ce9f5f347bd1140b7074bc97df61fdd472c267ab2767858ee04eed16d53.safetensors
+01/20/2026 22:11:10 - INFO - trainer - Saved prompt embedding to /mnt/petrelfs/zhangsiyu/4dgen/CogVideo/Disney-VideoGeneration-Dataset/cache/prompt_embeddings/708dc7ff5e2d674dc18f17c45e098124667c7d3abaffcf45cd1dd7f30016172a.safetensors
+01/20/2026 22:11:10 - INFO - trainer - Saved encoded video to /mnt/petrelfs/zhangsiyu/4dgen/CogVideo/Disney-VideoGeneration-Dataset/cache/video_latent/cogvideox1.5-t2v/81x768x1360/81c5dab878d73e6c21181d18d83f2808.safetensors
+01/20/2026 22:11:11 - INFO - trainer - Saved prompt embedding to /mnt/petrelfs/zhangsiyu/4dgen/CogVideo/Disney-VideoGeneration-Dataset/cache/prompt_embeddings/5e041d9dcd53d17f307467ba770e5e54e78cee2c7240585ccb5061b23d2334f9.safetensors
+01/20/2026 22:11:11 - INFO - trainer - Saved prompt embedding to /mnt/petrelfs/zhangsiyu/4dgen/CogVideo/Disney-VideoGeneration-Dataset/cache/prompt_embeddings/1489fe5220c4cb1f8fbc9383027be2575cf8cda08184c9752db170f8e0147c19.safetensors
+01/20/2026 22:11:11 - INFO - trainer - Saved encoded video to /mnt/petrelfs/zhangsiyu/4dgen/CogVideo/Disney-VideoGeneration-Dataset/cache/video_latent/cogvideox1.5-t2v/81x768x1360/349059f6c41460df59778d5e6d3d4861.safetensors
+01/20/2026 22:11:11 - INFO - trainer - Saved prompt embedding to /mnt/petrelfs/zhangsiyu/4dgen/CogVideo/Disney-VideoGeneration-Dataset/cache/prompt_embeddings/b2bf07594d5c79a19e1f521d46c3be623db27cb0c42234c3786f9eb83129ec66.safetensors
+01/20/2026 22:11:42 - INFO - trainer - Saved encoded video to /mnt/petrelfs/zhangsiyu/4dgen/CogVideo/Disney-VideoGeneration-Dataset/cache/video_latent/cogvideox1.5-t2v/81x768x1360/7d6dcf13f5c3d45b85c5ea0544c429e4.safetensors
+01/20/2026 22:11:42 - INFO - trainer - Saved prompt embedding to /mnt/petrelfs/zhangsiyu/4dgen/CogVideo/Disney-VideoGeneration-Dataset/cache/prompt_embeddings/9c138d2f2c06b0c9d9585ea5c0458702d4b530cfc1ae6fa2992705ad5234b2a3.safetensors
+01/20/2026 22:11:42 - INFO - trainer - Saved encoded video to /mnt/petrelfs/zhangsiyu/4dgen/CogVideo/Disney-VideoGeneration-Dataset/cache/video_latent/cogvideox1.5-t2v/81x768x1360/be20f3db31cfe8140f004e34a75d6ba4.safetensors
+01/20/2026 22:11:42 - INFO - trainer - Saved encoded video to /mnt/petrelfs/zhangsiyu/4dgen/CogVideo/Disney-VideoGeneration-Dataset/cache/video_latent/cogvideox1.5-t2v/81x768x1360/0bb5f6dbf8ed2e0060f0ac4164b24847.safetensors
+01/20/2026 22:11:42 - INFO - trainer - Saved encoded video to /mnt/petrelfs/zhangsiyu/4dgen/CogVideo/Disney-VideoGeneration-Dataset/cache/video_latent/cogvideox1.5-t2v/81x768x1360/82219ab81b21299db9848ab0d55e2f82.safetensors
+01/20/2026 22:11:42 - INFO - trainer - Saved prompt embedding to /mnt/petrelfs/zhangsiyu/4dgen/CogVideo/Disney-VideoGeneration-Dataset/cache/prompt_embeddings/496bcfa48b15413140d9f94d2c7fba9de501e8982d31ff27583815c269949065.safetensors
+01/20/2026 22:11:42 - INFO - trainer - Saved prompt embedding to /mnt/petrelfs/zhangsiyu/4dgen/CogVideo/Disney-VideoGeneration-Dataset/cache/prompt_embeddings/1d10d372ab5b1b1ca893514b57eea8cd957afe52024fda76a8f7daf74069b5b2.safetensors
+01/20/2026 22:11:42 - INFO - trainer - Saved prompt embedding to /mnt/petrelfs/zhangsiyu/4dgen/CogVideo/Disney-VideoGeneration-Dataset/cache/prompt_embeddings/23dd30eb623f211038870540b688049a0152e24f82b775969ba56b3f7cdf3b4a.safetensors
+01/20/2026 22:11:42 - INFO - trainer - Saved encoded video to /mnt/petrelfs/zhangsiyu/4dgen/CogVideo/Disney-VideoGeneration-Dataset/cache/video_latent/cogvideox1.5-t2v/81x768x1360/fe0efaedf8c47812bff8da9951f77975.safetensors
+01/20/2026 22:11:42 - INFO - trainer - Saved prompt embedding to /mnt/petrelfs/zhangsiyu/4dgen/CogVideo/Disney-VideoGeneration-Dataset/cache/prompt_embeddings/95fa9d14b0de4a5bcc9b927f440b5e5cab90a9a0ade7b015979c14c652e242aa.safetensors
+01/20/2026 22:11:43 - INFO - trainer - Saved encoded video to /mnt/petrelfs/zhangsiyu/4dgen/CogVideo/Disney-VideoGeneration-Dataset/cache/video_latent/cogvideox1.5-t2v/81x768x1360/614cf13ae1974436cf4072a5cc7d7c57.safetensors
+01/20/2026 22:11:43 - INFO - trainer - Saved encoded video to /mnt/petrelfs/zhangsiyu/4dgen/CogVideo/Disney-VideoGeneration-Dataset/cache/video_latent/cogvideox1.5-t2v/81x768x1360/fec5a5184b05acafc7904cd419cbb5a3.safetensors
+01/20/2026 22:11:43 - INFO - trainer - Saved prompt embedding to /mnt/petrelfs/zhangsiyu/4dgen/CogVideo/Disney-VideoGeneration-Dataset/cache/prompt_embeddings/b7a35e04830883c06f27057482044d077dc73449b07b28df06ddedabde738cf1.safetensors
+01/20/2026 22:11:43 - INFO - trainer - Saved prompt embedding to /mnt/petrelfs/zhangsiyu/4dgen/CogVideo/Disney-VideoGeneration-Dataset/cache/prompt_embeddings/08e596e9243ecd94cc1e7bf529991d7aa955757e77b971d01722768a940566cd.safetensors
+01/20/2026 22:11:43 - INFO - trainer - Saved encoded video to /mnt/petrelfs/zhangsiyu/4dgen/CogVideo/Disney-VideoGeneration-Dataset/cache/video_latent/cogvideox1.5-t2v/81x768x1360/1094139d474e65852826d64a1b4aa520.safetensors
+01/20/2026 22:11:43 - INFO - trainer - Saved prompt embedding to /mnt/petrelfs/zhangsiyu/4dgen/CogVideo/Disney-VideoGeneration-Dataset/cache/prompt_embeddings/f89e6791066343dced6249687eac2dbb428bb6b6dfc74d3fdd2473ffaab12683.safetensors
+01/20/2026 22:12:13 - INFO - trainer - Saved encoded video to /mnt/petrelfs/zhangsiyu/4dgen/CogVideo/Disney-VideoGeneration-Dataset/cache/video_latent/cogvideox1.5-t2v/81x768x1360/3f0979e6cae25447f416372c49ad5e07.safetensors
+01/20/2026 22:12:14 - INFO - trainer - Saved prompt embedding to /mnt/petrelfs/zhangsiyu/4dgen/CogVideo/Disney-VideoGeneration-Dataset/cache/prompt_embeddings/f7d784ec1f71f64e562377c6cfc33cbca9bcd96485a3cba1b634f64ead1b2298.safetensors
+01/20/2026 22:12:14 - INFO - trainer - Saved encoded video to /mnt/petrelfs/zhangsiyu/4dgen/CogVideo/Disney-VideoGeneration-Dataset/cache/video_latent/cogvideox1.5-t2v/81x768x1360/93877aefdefcee7b2978d7fb90690c8f.safetensors
+01/20/2026 22:12:14 - INFO - trainer - Saved prompt embedding to /mnt/petrelfs/zhangsiyu/4dgen/CogVideo/Disney-VideoGeneration-Dataset/cache/prompt_embeddings/18ecd374bbc74bb7361423bafe4fa66aa86da2b23ea3dc31e28b9192604d6948.safetensors
+01/20/2026 22:12:14 - INFO - trainer - Saved encoded video to /mnt/petrelfs/zhangsiyu/4dgen/CogVideo/Disney-VideoGeneration-Dataset/cache/video_latent/cogvideox1.5-t2v/81x768x1360/05a234b0164d015d468f2f53e771b4cf.safetensors
+01/20/2026 22:12:14 - INFO - trainer - Saved encoded video to /mnt/petrelfs/zhangsiyu/4dgen/CogVideo/Disney-VideoGeneration-Dataset/cache/video_latent/cogvideox1.5-t2v/81x768x1360/fe1009b64da05dfea77928e501284868.safetensors
+01/20/2026 22:12:14 - INFO - trainer - Saved prompt embedding to /mnt/petrelfs/zhangsiyu/4dgen/CogVideo/Disney-VideoGeneration-Dataset/cache/prompt_embeddings/76bbaf6f5d0154ac8a4beef854f7a1fc7d9114415721fc9fa4d0dcfe1f0565c1.safetensors
+01/20/2026 22:12:14 - INFO - trainer - Saved prompt embedding to /mnt/petrelfs/zhangsiyu/4dgen/CogVideo/Disney-VideoGeneration-Dataset/cache/prompt_embeddings/8136882f464b6a07f89409f369412a186e1e7ba1a9cabc9e67efd03d40719853.safetensors
+01/20/2026 22:12:14 - INFO - trainer - Saved encoded video to /mnt/petrelfs/zhangsiyu/4dgen/CogVideo/Disney-VideoGeneration-Dataset/cache/video_latent/cogvideox1.5-t2v/81x768x1360/d2cfac77af77bba35a6986beca2ae052.safetensors
+01/20/2026 22:12:14 - INFO - trainer - Saved prompt embedding to /mnt/petrelfs/zhangsiyu/4dgen/CogVideo/Disney-VideoGeneration-Dataset/cache/prompt_embeddings/1c9a9d6142d57bdbb031eab52fc910793e3c2dec8e7d3967bd7dde091cc87d1a.safetensors
+01/20/2026 22:12:15 - INFO - trainer - Saved encoded video to /mnt/petrelfs/zhangsiyu/4dgen/CogVideo/Disney-VideoGeneration-Dataset/cache/video_latent/cogvideox1.5-t2v/81x768x1360/b3e3b147675a68de8a29ffa762d59adb.safetensors
+01/20/2026 22:12:15 - INFO - trainer - Saved prompt embedding to /mnt/petrelfs/zhangsiyu/4dgen/CogVideo/Disney-VideoGeneration-Dataset/cache/prompt_embeddings/a022291da64810040c52eb6b02a3b9e6a1a6003492c5d56e2b93142977bacd48.safetensors
+01/20/2026 22:12:15 - INFO - trainer - Saved encoded video to /mnt/petrelfs/zhangsiyu/4dgen/CogVideo/Disney-VideoGeneration-Dataset/cache/video_latent/cogvideox1.5-t2v/81x768x1360/8d616fee8e0a280d2d87e478b948a729.safetensors
+01/20/2026 22:12:15 - INFO - trainer - Saved prompt embedding to /mnt/petrelfs/zhangsiyu/4dgen/CogVideo/Disney-VideoGeneration-Dataset/cache/prompt_embeddings/4c764476d89d975db4611883c0eea63a14fa56f78867aa2ce55f18d06cc88ecd.safetensors
+01/20/2026 22:12:15 - INFO - trainer - Saved encoded video to /mnt/petrelfs/zhangsiyu/4dgen/CogVideo/Disney-VideoGeneration-Dataset/cache/video_latent/cogvideox1.5-t2v/81x768x1360/2c1ed5408882479b06681f7cf372916a.safetensors
+01/20/2026 22:12:15 - INFO - trainer - Saved prompt embedding to /mnt/petrelfs/zhangsiyu/4dgen/CogVideo/Disney-VideoGeneration-Dataset/cache/prompt_embeddings/26b17595d2610aa6d9d8ac98d59d88a197defed00d2a78ca2029a7d527d33761.safetensors
+01/20/2026 22:12:45 - INFO - trainer - Saved encoded video to /mnt/petrelfs/zhangsiyu/4dgen/CogVideo/Disney-VideoGeneration-Dataset/cache/video_latent/cogvideox1.5-t2v/81x768x1360/a8369dff8c96925513892c6377bacb1c.safetensors
+01/20/2026 22:12:45 - INFO - trainer - Saved prompt embedding to /mnt/petrelfs/zhangsiyu/4dgen/CogVideo/Disney-VideoGeneration-Dataset/cache/prompt_embeddings/58712f7442f2c0a0c0df1361c91412529d1695b7d379ab5e0bbefc9679e0d1e7.safetensors
+01/20/2026 22:12:46 - INFO - trainer - Saved encoded video to /mnt/petrelfs/zhangsiyu/4dgen/CogVideo/Disney-VideoGeneration-Dataset/cache/video_latent/cogvideox1.5-t2v/81x768x1360/46e9d133d051655c956c7089b672f519.safetensors
+01/20/2026 22:12:46 - INFO - trainer - Saved encoded video to /mnt/petrelfs/zhangsiyu/4dgen/CogVideo/Disney-VideoGeneration-Dataset/cache/video_latent/cogvideox1.5-t2v/81x768x1360/3108dd567bd8669967bc83e0bc50dab2.safetensors
+01/20/2026 22:12:46 - INFO - trainer - Saved prompt embedding to /mnt/petrelfs/zhangsiyu/4dgen/CogVideo/Disney-VideoGeneration-Dataset/cache/prompt_embeddings/dd36873a435c3b407560ecaa0054f523caac3dfafdfcc0f0cde87426db1c936c.safetensors
+01/20/2026 22:12:46 - INFO - trainer - Saved prompt embedding to /mnt/petrelfs/zhangsiyu/4dgen/CogVideo/Disney-VideoGeneration-Dataset/cache/prompt_embeddings/c6fac5faddfedde6457f584e08043e4df89b5e8aeddb8bc94662cd0937f540a5.safetensors
+01/20/2026 22:12:46 - INFO - trainer - Saved encoded video to /mnt/petrelfs/zhangsiyu/4dgen/CogVideo/Disney-VideoGeneration-Dataset/cache/video_latent/cogvideox1.5-t2v/81x768x1360/5a0229ffdb3bd9d8e81dca7988d7cdbb.safetensors
+01/20/2026 22:12:46 - INFO - trainer - Saved prompt embedding to /mnt/petrelfs/zhangsiyu/4dgen/CogVideo/Disney-VideoGeneration-Dataset/cache/prompt_embeddings/bb21d4f6ebfa1215a6873c23ac1bfacb60562c8583d095d378d98c115b782bff.safetensors
+01/20/2026 22:12:46 - INFO - trainer - Saved encoded video to /mnt/petrelfs/zhangsiyu/4dgen/CogVideo/Disney-VideoGeneration-Dataset/cache/video_latent/cogvideox1.5-t2v/81x768x1360/8e7722634784cf969c15f4a597f3af4d.safetensors
+01/20/2026 22:12:46 - INFO - trainer - Saved prompt embedding to /mnt/petrelfs/zhangsiyu/4dgen/CogVideo/Disney-VideoGeneration-Dataset/cache/prompt_embeddings/29c00042be3725d7986566112d875343c9d0546424c5c0ea474654d2f6e020fd.safetensors
+01/20/2026 22:12:47 - INFO - trainer - Saved encoded video to /mnt/petrelfs/zhangsiyu/4dgen/CogVideo/Disney-VideoGeneration-Dataset/cache/video_latent/cogvideox1.5-t2v/81x768x1360/e6a0293632a942712fd61867aeae5e9f.safetensors
+01/20/2026 22:12:47 - INFO - trainer - Saved prompt embedding to /mnt/petrelfs/zhangsiyu/4dgen/CogVideo/Disney-VideoGeneration-Dataset/cache/prompt_embeddings/d1c1546b21388ff42d1cb96ce084ffeb4040512643af99f6e485e4a97fec1e61.safetensors
+01/20/2026 22:12:47 - INFO - trainer - Saved encoded video to /mnt/petrelfs/zhangsiyu/4dgen/CogVideo/Disney-VideoGeneration-Dataset/cache/video_latent/cogvideox1.5-t2v/81x768x1360/1d50a3d9703f152758d5422c8b48010f.safetensors
+01/20/2026 22:12:47 - INFO - trainer - Saved prompt embedding to /mnt/petrelfs/zhangsiyu/4dgen/CogVideo/Disney-VideoGeneration-Dataset/cache/prompt_embeddings/fb70bd6067335e73bfe669ee8affed67248c22964e647552451a51a6b0198ced.safetensors
+01/20/2026 22:12:48 - INFO - trainer - Saved encoded video to /mnt/petrelfs/zhangsiyu/4dgen/CogVideo/Disney-VideoGeneration-Dataset/cache/video_latent/cogvideox1.5-t2v/81x768x1360/4c918b917308ff03120e9e86650a2d3c.safetensors
+01/20/2026 22:12:48 - INFO - trainer - Saved prompt embedding to /mnt/petrelfs/zhangsiyu/4dgen/CogVideo/Disney-VideoGeneration-Dataset/cache/prompt_embeddings/dcc4133abd2dc4bd66f03d2b8882589d7966258acf2beca6d363c1e5b3cb3130.safetensors
+01/20/2026 22:13:17 - INFO - trainer - Saved encoded video to /mnt/petrelfs/zhangsiyu/4dgen/CogVideo/Disney-VideoGeneration-Dataset/cache/video_latent/cogvideox1.5-t2v/81x768x1360/8adfde998361b1d7c6f38a35481667fd.safetensors
+01/20/2026 22:13:17 - INFO - trainer - Saved prompt embedding to /mnt/petrelfs/zhangsiyu/4dgen/CogVideo/Disney-VideoGeneration-Dataset/cache/prompt_embeddings/b3b0c8ae9b79d1a289400eb955d8662abb76f2d98b07ac972dad710829db6765.safetensors
+01/20/2026 22:13:18 - INFO - trainer - Saved encoded video to /mnt/petrelfs/zhangsiyu/4dgen/CogVideo/Disney-VideoGeneration-Dataset/cache/video_latent/cogvideox1.5-t2v/81x768x1360/46f4eee0864dd89c9225367d826a657f.safetensors
+01/20/2026 22:13:18 - INFO - trainer - Saved encoded video to /mnt/petrelfs/zhangsiyu/4dgen/CogVideo/Disney-VideoGeneration-Dataset/cache/video_latent/cogvideox1.5-t2v/81x768x1360/5383e4e3e8156787c43bc0cd839536c0.safetensors
+01/20/2026 22:13:18 - INFO - trainer - Saved prompt embedding to /mnt/petrelfs/zhangsiyu/4dgen/CogVideo/Disney-VideoGeneration-Dataset/cache/prompt_embeddings/e7a503718134810ae53ca032d04b2afac37639d1b0bd22b275a844bb425f59aa.safetensors
+01/20/2026 22:13:18 - INFO - trainer - Saved prompt embedding to /mnt/petrelfs/zhangsiyu/4dgen/CogVideo/Disney-VideoGeneration-Dataset/cache/prompt_embeddings/d81705fd21bd824919e9d2ef16c861461bca758b6c77c3002b802c2a42b3f29b.safetensors
+01/20/2026 22:13:18 - INFO - trainer - Saved encoded video to /mnt/petrelfs/zhangsiyu/4dgen/CogVideo/Disney-VideoGeneration-Dataset/cache/video_latent/cogvideox1.5-t2v/81x768x1360/8520a081252604e3c478f76f4dddddf8.safetensors
+01/20/2026 22:13:18 - INFO - trainer - Saved prompt embedding to /mnt/petrelfs/zhangsiyu/4dgen/CogVideo/Disney-VideoGeneration-Dataset/cache/prompt_embeddings/f9e0f06f25d8211c48f494ff33cf1102bab76f9e88d8d478e3c47a038f834447.safetensors
+01/20/2026 22:13:18 - INFO - trainer - Saved encoded video to /mnt/petrelfs/zhangsiyu/4dgen/CogVideo/Disney-VideoGeneration-Dataset/cache/video_latent/cogvideox1.5-t2v/81x768x1360/6781b101e8bd362e9853749fcc2cd3e3.safetensors
+01/20/2026 22:13:18 - INFO - trainer - Saved prompt embedding to /mnt/petrelfs/zhangsiyu/4dgen/CogVideo/Disney-VideoGeneration-Dataset/cache/prompt_embeddings/8162946ffe88702a7523f8c22dbb291318a64b141cff5da3f9106e2e3f62771f.safetensors
+01/20/2026 22:13:18 - INFO - trainer - Saved encoded video to /mnt/petrelfs/zhangsiyu/4dgen/CogVideo/Disney-VideoGeneration-Dataset/cache/video_latent/cogvideox1.5-t2v/81x768x1360/4010c114ce5fb6a86d2327e711669813.safetensors
+01/20/2026 22:13:19 - INFO - trainer - Saved prompt embedding to /mnt/petrelfs/zhangsiyu/4dgen/CogVideo/Disney-VideoGeneration-Dataset/cache/prompt_embeddings/72f4759ab47d01ad2d568a8a911327d72dff1442104fb0d23b8a98eb3d626709.safetensors
+01/20/2026 22:13:19 - INFO - trainer - Saved encoded video to /mnt/petrelfs/zhangsiyu/4dgen/CogVideo/Disney-VideoGeneration-Dataset/cache/video_latent/cogvideox1.5-t2v/81x768x1360/12e51adf1acbf7acbb703a96a464a39b.safetensors
+01/20/2026 22:13:19 - INFO - trainer - Saved prompt embedding to /mnt/petrelfs/zhangsiyu/4dgen/CogVideo/Disney-VideoGeneration-Dataset/cache/prompt_embeddings/5e8557e1764a7c3207592ae51c5f3aebb7a0a3e6d6be6dd4dc7dd9db5c80b883.safetensors
+01/20/2026 22:13:20 - INFO - trainer - Saved encoded video to /mnt/petrelfs/zhangsiyu/4dgen/CogVideo/Disney-VideoGeneration-Dataset/cache/video_latent/cogvideox1.5-t2v/81x768x1360/d3af95bf8f9cce29e5c99e839e630c59.safetensors
+01/20/2026 22:13:20 - INFO - trainer - Saved prompt embedding to /mnt/petrelfs/zhangsiyu/4dgen/CogVideo/Disney-VideoGeneration-Dataset/cache/prompt_embeddings/f0a91ee174282bf015e0f968fbd8b1365d5ade35416d578c4cd9853c5edcee16.safetensors
+01/20/2026 22:13:48 - INFO - trainer - Saved encoded video to /mnt/petrelfs/zhangsiyu/4dgen/CogVideo/Disney-VideoGeneration-Dataset/cache/video_latent/cogvideox1.5-t2v/81x768x1360/4461a0e8ddd86d615ccf73ef0ff0705b.safetensors
+01/20/2026 22:13:48 - INFO - trainer - Saved prompt embedding to /mnt/petrelfs/zhangsiyu/4dgen/CogVideo/Disney-VideoGeneration-Dataset/cache/prompt_embeddings/b180b4b3155b588e5a0871c5b8ff7782541d290e75880762b77e7ed7c3a056e9.safetensors
+01/20/2026 22:13:49 - INFO - trainer - Saved encoded video to /mnt/petrelfs/zhangsiyu/4dgen/CogVideo/Disney-VideoGeneration-Dataset/cache/video_latent/cogvideox1.5-t2v/81x768x1360/f0f570e5bc69d03af276a06a96cde800.safetensors
+01/20/2026 22:13:49 - INFO - trainer - Saved prompt embedding to /mnt/petrelfs/zhangsiyu/4dgen/CogVideo/Disney-VideoGeneration-Dataset/cache/prompt_embeddings/3b60155092ed69742e267ec77e9c0812e20d9cae25fc08101cbecc12b8b3a0d6.safetensors
+01/20/2026 22:13:49 - INFO - trainer - Saved encoded video to /mnt/petrelfs/zhangsiyu/4dgen/CogVideo/Disney-VideoGeneration-Dataset/cache/video_latent/cogvideox1.5-t2v/81x768x1360/6049124903a8de3fa164bbb5bb2f586e.safetensors
+01/20/2026 22:13:49 - INFO - trainer - Saved encoded video to /mnt/petrelfs/zhangsiyu/4dgen/CogVideo/Disney-VideoGeneration-Dataset/cache/video_latent/cogvideox1.5-t2v/81x768x1360/11982a10fc2ba10d295d23054f7f68c8.safetensors
+01/20/2026 22:13:49 - INFO - trainer - Saved prompt embedding to /mnt/petrelfs/zhangsiyu/4dgen/CogVideo/Disney-VideoGeneration-Dataset/cache/prompt_embeddings/b2dbd554d3e7cbfdb908756603242b2af396dd6d99809561d4a5871ca3eb5904.safetensors
+01/20/2026 22:13:49 - INFO - trainer - Saved prompt embedding to /mnt/petrelfs/zhangsiyu/4dgen/CogVideo/Disney-VideoGeneration-Dataset/cache/prompt_embeddings/2b2ab1b6ebfeed36feedd00e5e2359adb80780e90d249ba3a53ccd86687e2bcb.safetensors
+01/20/2026 22:13:50 - INFO - trainer - Saved encoded video to /mnt/petrelfs/zhangsiyu/4dgen/CogVideo/Disney-VideoGeneration-Dataset/cache/video_latent/cogvideox1.5-t2v/81x768x1360/d3d4ce6894178d7664effcc4eef1945b.safetensors
+01/20/2026 22:13:50 - INFO - trainer - Saved prompt embedding to /mnt/petrelfs/zhangsiyu/4dgen/CogVideo/Disney-VideoGeneration-Dataset/cache/prompt_embeddings/4ce6e8d0363e16fbcf4bab1e711f2bb78d9cb7e0478bab2be7171dd9363c044b.safetensors
+01/20/2026 22:13:50 - INFO - trainer - Saved encoded video to /mnt/petrelfs/zhangsiyu/4dgen/CogVideo/Disney-VideoGeneration-Dataset/cache/video_latent/cogvideox1.5-t2v/81x768x1360/58b88d44575e945cd7dcd11b3aac6ff0.safetensors
+01/20/2026 22:13:50 - INFO - trainer - Saved prompt embedding to /mnt/petrelfs/zhangsiyu/4dgen/CogVideo/Disney-VideoGeneration-Dataset/cache/prompt_embeddings/bb0d2f256b0041d13faf42d49f11e8d3942486a59bb93692c464f2b15ebeaab6.safetensors
+01/20/2026 22:13:51 - INFO - trainer - Saved encoded video to /mnt/petrelfs/zhangsiyu/4dgen/CogVideo/Disney-VideoGeneration-Dataset/cache/video_latent/cogvideox1.5-t2v/81x768x1360/2325e5f8e287753e50e47ab2fc2e8241.safetensors
+01/20/2026 22:13:51 - INFO - trainer - Saved prompt embedding to /mnt/petrelfs/zhangsiyu/4dgen/CogVideo/Disney-VideoGeneration-Dataset/cache/prompt_embeddings/c0f481c2e0d94b20b1ce3a7259fbb8276ff8573fa529bab9494e89c9d72651dd.safetensors
+01/20/2026 22:13:52 - INFO - trainer - Saved encoded video to /mnt/petrelfs/zhangsiyu/4dgen/CogVideo/Disney-VideoGeneration-Dataset/cache/video_latent/cogvideox1.5-t2v/81x768x1360/ceb2998f50feefef1844032e9cd19739.safetensors
+01/20/2026 22:13:52 - INFO - trainer - Saved prompt embedding to /mnt/petrelfs/zhangsiyu/4dgen/CogVideo/Disney-VideoGeneration-Dataset/cache/prompt_embeddings/8418c3efe447fcf907f58d0fb44ee0abc7280b96e320c74a13b158e07339174d.safetensors
+01/20/2026 22:14:20 - INFO - trainer - Saved encoded video to /mnt/petrelfs/zhangsiyu/4dgen/CogVideo/Disney-VideoGeneration-Dataset/cache/video_latent/cogvideox1.5-t2v/81x768x1360/f6a95cd4397b6a102e82becdcd05d585.safetensors
+01/20/2026 22:14:21 - INFO - trainer - Saved encoded video to /mnt/petrelfs/zhangsiyu/4dgen/CogVideo/Disney-VideoGeneration-Dataset/cache/video_latent/cogvideox1.5-t2v/81x768x1360/bbf1174e69f404009bba630332c8cbdb.safetensors
+01/20/2026 22:14:21 - INFO - trainer - Saved prompt embedding to /mnt/petrelfs/zhangsiyu/4dgen/CogVideo/Disney-VideoGeneration-Dataset/cache/prompt_embeddings/b5bab351bceacc11639609761ae4fdab76dcd10aa7a49e7fdd7fab1adf1d2361.safetensors
+01/20/2026 22:14:21 - INFO - trainer - Saved encoded video to /mnt/petrelfs/zhangsiyu/4dgen/CogVideo/Disney-VideoGeneration-Dataset/cache/video_latent/cogvideox1.5-t2v/81x768x1360/0288f3d69c08e816d81b014da620db49.safetensors
+01/20/2026 22:14:21 - INFO - trainer - Saved encoded video to /mnt/petrelfs/zhangsiyu/4dgen/CogVideo/Disney-VideoGeneration-Dataset/cache/video_latent/cogvideox1.5-t2v/81x768x1360/560c6472660330638c2809d823d59be3.safetensors
+01/20/2026 22:14:21 - INFO - trainer - Saved prompt embedding to /mnt/petrelfs/zhangsiyu/4dgen/CogVideo/Disney-VideoGeneration-Dataset/cache/prompt_embeddings/b4b720c0c17088a23b457c91c5046bb25fc3ca43e5ed056e53eea9358e8336a4.safetensors
+01/20/2026 22:14:21 - INFO - trainer - Saved prompt embedding to /mnt/petrelfs/zhangsiyu/4dgen/CogVideo/Disney-VideoGeneration-Dataset/cache/prompt_embeddings/69418279eb0d24f976535862e968aa629aa269deac28f95a9bb15dce45e90002.safetensors
+01/20/2026 22:14:21 - INFO - trainer - Saved encoded video to /mnt/petrelfs/zhangsiyu/4dgen/CogVideo/Disney-VideoGeneration-Dataset/cache/video_latent/cogvideox1.5-t2v/81x768x1360/d8a33062ef6a446c168acb06bf45b77d.safetensors
+01/20/2026 22:14:22 - INFO - trainer - Saved prompt embedding to /mnt/petrelfs/zhangsiyu/4dgen/CogVideo/Disney-VideoGeneration-Dataset/cache/prompt_embeddings/c9a1d2000d04c59cffa1895a80f03a48a82e529e7fceeca6ff8d3b8ed290496c.safetensors
+01/20/2026 22:14:22 - INFO - trainer - Saved encoded video to /mnt/petrelfs/zhangsiyu/4dgen/CogVideo/Disney-VideoGeneration-Dataset/cache/video_latent/cogvideox1.5-t2v/81x768x1360/383cb4b496d17695554655f3ec79c587.safetensors
+01/20/2026 22:14:23 - INFO - trainer - Saved encoded video to /mnt/petrelfs/zhangsiyu/4dgen/CogVideo/Disney-VideoGeneration-Dataset/cache/video_latent/cogvideox1.5-t2v/81x768x1360/72306312252707a5ecf83a8eeed9b55a.safetensors
+01/20/2026 22:14:25 - INFO - trainer - Saved encoded video to /mnt/petrelfs/zhangsiyu/4dgen/CogVideo/Disney-VideoGeneration-Dataset/cache/video_latent/cogvideox1.5-t2v/81x768x1360/c789b44119c14c5732e835cae89bf7ac.safetensors
+01/20/2026 22:14:25 - INFO - trainer - Saved prompt embedding to /mnt/petrelfs/zhangsiyu/4dgen/CogVideo/Disney-VideoGeneration-Dataset/cache/prompt_embeddings/9f771161d61262d9be47f838ddf7aa9728cc7a2efb96bd4459ba261842490dc6.safetensors
+01/20/2026 22:14:52 - INFO - trainer - Saved encoded video to /mnt/petrelfs/zhangsiyu/4dgen/CogVideo/Disney-VideoGeneration-Dataset/cache/video_latent/cogvideox1.5-t2v/81x768x1360/38963e6acf01fdcc9b647ec9d63edc9a.safetensors
+01/20/2026 22:14:53 - INFO - trainer - Saved encoded video to /mnt/petrelfs/zhangsiyu/4dgen/CogVideo/Disney-VideoGeneration-Dataset/cache/video_latent/cogvideox1.5-t2v/81x768x1360/485b43aa4524327f3c7a40d28e1cf7bc.safetensors
+01/20/2026 22:14:53 - INFO - trainer - Saved encoded video to /mnt/petrelfs/zhangsiyu/4dgen/CogVideo/Disney-VideoGeneration-Dataset/cache/video_latent/cogvideox1.5-t2v/81x768x1360/894905168d8da4f4b0862e7b0f756e44.safetensors
+01/20/2026 22:14:53 - INFO - trainer - Saved encoded video to /mnt/petrelfs/zhangsiyu/4dgen/CogVideo/Disney-VideoGeneration-Dataset/cache/video_latent/cogvideox1.5-t2v/81x768x1360/b65565e3b61c97b3fa0643c6f45dc4de.safetensors
+01/20/2026 22:14:57 - INFO - trainer - Saved encoded video to /mnt/petrelfs/zhangsiyu/4dgen/CogVideo/Disney-VideoGeneration-Dataset/cache/video_latent/cogvideox1.5-t2v/81x768x1360/fca1d53370805cf052bed822e2d20604.safetensors
+01/20/2026 22:14:57 - INFO - trainer - Precomputing latent for video and prompt embedding ... Done
+01/20/2026 22:15:02 - INFO - trainer - Initializing trainable parameters
+01/20/2026 22:15:02 - INFO - trainer - Initializing optimizer and lr scheduler
+[2026-01-20 22:15:45,081] [WARNING] [lr_schedules.py:690:get_lr] Attempting to get learning rate from scheduler before it has started
+[2026-01-20 22:15:45,253] [WARNING] [lr_schedules.py:690:get_lr] Attempting to get learning rate from scheduler before it has started
+[2026-01-20 22:15:45,348] [WARNING] [lr_schedules.py:690:get_lr] Attempting to get learning rate from scheduler before it has started
+[2026-01-20 22:15:45,361] [WARNING] [lr_schedules.py:690:get_lr] Attempting to get learning rate from scheduler before it has started
+Before initializing optimizer states
+MA 12.98 GB         Max_MA 14.28 GB         CA 14.3 GB         Max_CA 14 GB 
+CPU Virtual Memory:  used = 460.35 GB, percent = 22.8%
+[2026-01-20 22:15:45,806] [WARNING] [lr_schedules.py:690:get_lr] Attempting to get learning rate from scheduler before it has started
+After initializing optimizer states
+MA 12.98 GB         Max_MA 15.57 GB         CA 16.89 GB         Max_CA 17 GB 
+CPU Virtual Memory:  used = 458.76 GB, percent = 22.8%
+After initializing ZeRO optimizer
+MA 12.98 GB         Max_MA 12.98 GB         CA 16.89 GB         Max_CA 17 GB 
+CPU Virtual Memory:  used = 457.07 GB, percent = 22.7%
+[2026-01-20 22:15:46,196] [WARNING] [lr_schedules.py:690:get_lr] Attempting to get learning rate from scheduler before it has started
+01/20/2026 22:15:46 - INFO - trainer - Initializing trackers
+01/20/2026 22:15:46 - INFO - trainer - Starting training
+01/20/2026 22:15:46 - INFO - trainer - Memory before training start: {
+    "memory_allocated": 12.979,
+    "memory_reserved": 16.895,
+    "max_memory_allocated": 12.979,
+    "max_memory_reserved": 16.895
+}
+01/20/2026 22:15:46 - INFO - trainer - Training configuration: {
+    "trainable parameters": 5570676352,
+    "total samples": 69,
+    "train epochs": 1,
+    "train steps": 9,
+    "batches per device": 1,
+    "total batches observed per epoch": 9,
+    "train batch size total count": 8,
+    "gradient accumulation steps": 1
+}
+[2026-01-20 22:15:48,826] [WARNING] [lr_schedules.py:690:get_lr] Attempting to get learning rate from scheduler before it has started
+[2026-01-20 22:15:51,334] [WARNING] [lr_schedules.py:690:get_lr] Attempting to get learning rate from scheduler before it has started
+Training steps:   0%|          | 0/9 [00:00<?, ?it/s]Training steps:  11%|█         | 1/9 [00:47<06:21, 47.71s/it]Training steps:  11%|█         | 1/9 [00:47<06:21, 47.71s/it, grad_norm=4.87, loss=0.0672, lr=0]Training steps:  22%|██▏       | 2/9 [01:27<05:01, 43.04s/it, grad_norm=4.87, loss=0.0672, lr=0]Training steps:  22%|██▏       | 2/9 [01:27<05:01, 43.04s/it, grad_norm=0.372, loss=0.0576, lr=2e-5]Training steps:  33%|███▎      | 3/9 [02:07<04:09, 41.52s/it, grad_norm=0.372, loss=0.0576, lr=2e-5]Training steps:  33%|███▎      | 3/9 [02:07<04:09, 41.52s/it, grad_norm=0.253, loss=0.111, lr=2e-5] Training steps:  44%|████▍     | 4/9 [02:46<03:23, 40.80s/it, grad_norm=0.253, loss=0.111, lr=2e-5]Training steps:  44%|████▍     | 4/9 [02:46<03:23, 40.80s/it, grad_norm=0.193, loss=0.128, lr=1.97e-5]Training steps:  56%|█████▌    | 5/9 [03:26<02:41, 40.39s/it, grad_norm=0.193, loss=0.128, lr=1.97e-5]Training steps:  56%|█████▌    | 5/9 [03:26<02:41, 40.39s/it, grad_norm=0.632, loss=0.0584, lr=1.94e-5]Training steps:  67%|██████▋   | 6/9 [04:06<02:00, 40.16s/it, grad_norm=0.632, loss=0.0584, lr=1.94e-5]Training steps:  67%|██████▋   | 6/9 [04:06<02:00, 40.16s/it, grad_norm=10.9, loss=0.126, lr=1.91e-5]  Training steps:  78%|███████▊  | 7/9 [04:45<01:20, 40.01s/it, grad_norm=10.9, loss=0.126, lr=1.91e-5]Training steps:  78%|███████▊  | 7/9 [04:45<01:20, 40.01s/it, grad_norm=0.764, loss=0.196, lr=1.88e-5]Training steps:  89%|████████▉ | 8/9 [05:25<00:39, 39.91s/it, grad_norm=0.764, loss=0.196, lr=1.88e-5]Training steps:  89%|████████▉ | 8/9 [05:25<00:39, 39.91s/it, grad_norm=3.08, loss=0.0692, lr=1.85e-5]Training steps: 100%|██████████| 9/9 [06:06<00:00, 40.05s/it, grad_norm=3.08, loss=0.0692, lr=1.85e-5]Training steps: 100%|██████████| 9/9 [06:06<00:00, 40.05s/it, grad_norm=0.91, loss=0.168, lr=1.82e-5] 01/20/2026 22:21:52 - INFO - trainer - Memory after epoch 1: {
+    "memory_allocated": 18.189,
+    "memory_reserved": 49.293,
+    "max_memory_allocated": 38.014,
+    "max_memory_reserved": 49.293
+}
+01/20/2026 22:21:52 - INFO - trainer - Checkpointing at step 9
+01/20/2026 22:21:52 - INFO - trainer - Saving state to /mnt/petrelfs/zhangsiyu/4dgen/CogVideo/finetune_test_zero/checkpoint-9
+01/20/2026 22:21:52 - INFO - accelerate.accelerator - Saving current state to /mnt/petrelfs/zhangsiyu/4dgen/CogVideo/finetune_test_zero/checkpoint-9
+01/20/2026 22:21:52 - INFO - accelerate.accelerator - Saving DeepSpeed Model and Optimizer
+[rank6]: Traceback (most recent call last):
+[rank6]:   File "/mnt/petrelfs/zhangsiyu/miniconda3/envs/cogvideox/lib/python3.10/site-packages/torch/serialization.py", line 967, in save
+[rank6]:     _save(
+[rank6]:   File "/mnt/petrelfs/zhangsiyu/miniconda3/envs/cogvideox/lib/python3.10/site-packages/torch/serialization.py", line 1268, in _save
+[rank6]:     zip_file.write_record(name, storage, num_bytes)
+[rank6]: RuntimeError: [enforce fail at inline_container.cc:858] . PytorchStreamWriter failed writing file data/2: file write failed
+
+[rank6]: During handling of the above exception, another exception occurred:
+
+[rank6]: Traceback (most recent call last):
+[rank6]:   File "/mnt/petrelfs/zhangsiyu/4dgen/CogVideo/finetune/train.py", line 28, in <module>
+[rank6]:     main()
+[rank6]:   File "/mnt/petrelfs/zhangsiyu/4dgen/CogVideo/finetune/train.py", line 24, in main
+[rank6]:     trainer.fit()
+[rank6]:   File "/mnt/petrelfs/zhangsiyu/4dgen/CogVideo/finetune/trainer.py", line 680, in fit
+[rank6]:     self.train()
+[rank6]:   File "/mnt/petrelfs/zhangsiyu/4dgen/CogVideo/finetune/trainer.py", line 490, in train
+[rank6]:     self.__maybe_save_checkpoint(global_step, must_save=True)
+[rank6]:   File "/mnt/petrelfs/zhangsiyu/4dgen/CogVideo/finetune/trainer.py", line 811, in __maybe_save_checkpoint
+[rank6]:     self.accelerator.save_state(save_path, safe_serialization=True)
+[rank6]:   File "/mnt/petrelfs/zhangsiyu/miniconda3/envs/cogvideox/lib/python3.10/site-packages/accelerate/accelerator.py", line 3660, in save_state
+[rank6]:     model.save_checkpoint(output_dir, ckpt_id, **save_model_func_kwargs)
+[rank6]:   File "/mnt/petrelfs/zhangsiyu/miniconda3/envs/cogvideox/lib/python3.10/site-packages/deepspeed/runtime/engine.py", line 3673, in save_checkpoint
+[rank6]:     self._save_zero_checkpoint(save_dir, tag)
+[rank6]:   File "/mnt/petrelfs/zhangsiyu/miniconda3/envs/cogvideox/lib/python3.10/site-packages/deepspeed/runtime/engine.py", line 4064, in _save_zero_checkpoint
+[rank6]:     self.checkpoint_engine.save(zero_sd, zero_checkpoint_name)
+[rank6]:   File "/mnt/petrelfs/zhangsiyu/miniconda3/envs/cogvideox/lib/python3.10/site-packages/deepspeed/runtime/checkpoint_engine/torch_checkpoint_engine.py", line 32, in save
+[rank6]:     torch.save(state_dict, path, _use_new_zipfile_serialization=self.zipfile_serialization)
+[rank6]:   File "/mnt/petrelfs/zhangsiyu/miniconda3/envs/cogvideox/lib/python3.10/site-packages/torch/serialization.py", line 966, in save
+[rank6]:     with _open_zipfile_writer(f) as opened_zipfile:
+[rank6]:   File "/mnt/petrelfs/zhangsiyu/miniconda3/envs/cogvideox/lib/python3.10/site-packages/torch/serialization.py", line 798, in __exit__
+[rank6]:     self.file_like.write_end_of_file()
+[rank6]: RuntimeError: [enforce fail at inline_container.cc:664] . unexpected pos 2785350464 vs 2785350352
+[rank5]: Traceback (most recent call last):
+[rank5]:   File "/mnt/petrelfs/zhangsiyu/miniconda3/envs/cogvideox/lib/python3.10/site-packages/torch/serialization.py", line 967, in save
+[rank5]:     _save(
+[rank5]:   File "/mnt/petrelfs/zhangsiyu/miniconda3/envs/cogvideox/lib/python3.10/site-packages/torch/serialization.py", line 1268, in _save
+[rank5]:     zip_file.write_record(name, storage, num_bytes)
+[rank5]: RuntimeError: [enforce fail at inline_container.cc:858] . PytorchStreamWriter failed writing file data/2: file write failed
+
+[rank5]: During handling of the above exception, another exception occurred:
+
+[rank5]: Traceback (most recent call last):
+[rank5]:   File "/mnt/petrelfs/zhangsiyu/4dgen/CogVideo/finetune/train.py", line 28, in <module>
+[rank5]:     main()
+[rank5]:   File "/mnt/petrelfs/zhangsiyu/4dgen/CogVideo/finetune/train.py", line 24, in main
+[rank5]:     trainer.fit()
+[rank5]:   File "/mnt/petrelfs/zhangsiyu/4dgen/CogVideo/finetune/trainer.py", line 680, in fit
+[rank5]:     self.train()
+[rank5]:   File "/mnt/petrelfs/zhangsiyu/4dgen/CogVideo/finetune/trainer.py", line 490, in train
+[rank5]:     self.__maybe_save_checkpoint(global_step, must_save=True)
+[rank5]:   File "/mnt/petrelfs/zhangsiyu/4dgen/CogVideo/finetune/trainer.py", line 811, in __maybe_save_checkpoint
+[rank5]:     self.accelerator.save_state(save_path, safe_serialization=True)
+[rank5]:   File "/mnt/petrelfs/zhangsiyu/miniconda3/envs/cogvideox/lib/python3.10/site-packages/accelerate/accelerator.py", line 3660, in save_state
+[rank5]:     model.save_checkpoint(output_dir, ckpt_id, **save_model_func_kwargs)
+[rank5]:   File "/mnt/petrelfs/zhangsiyu/miniconda3/envs/cogvideox/lib/python3.10/site-packages/deepspeed/runtime/engine.py", line 3673, in save_checkpoint
+[rank5]:     self._save_zero_checkpoint(save_dir, tag)
+[rank5]:   File "/mnt/petrelfs/zhangsiyu/miniconda3/envs/cogvideox/lib/python3.10/site-packages/deepspeed/runtime/engine.py", line 4064, in _save_zero_checkpoint
+[rank5]:     self.checkpoint_engine.save(zero_sd, zero_checkpoint_name)
+[rank5]:   File "/mnt/petrelfs/zhangsiyu/miniconda3/envs/cogvideox/lib/python3.10/site-packages/deepspeed/runtime/checkpoint_engine/torch_checkpoint_engine.py", line 32, in save
+[rank5]:     torch.save(state_dict, path, _use_new_zipfile_serialization=self.zipfile_serialization)
+[rank5]:   File "/mnt/petrelfs/zhangsiyu/miniconda3/envs/cogvideox/lib/python3.10/site-packages/torch/serialization.py", line 966, in save
+[rank5]:     with _open_zipfile_writer(f) as opened_zipfile:
+[rank5]:   File "/mnt/petrelfs/zhangsiyu/miniconda3/envs/cogvideox/lib/python3.10/site-packages/torch/serialization.py", line 798, in __exit__
+[rank5]:     self.file_like.write_end_of_file()
+[rank5]: RuntimeError: [enforce fail at inline_container.cc:664] . unexpected pos 2785350976 vs 2785350864
+[rank4]: Traceback (most recent call last):
+[rank4]:   File "/mnt/petrelfs/zhangsiyu/miniconda3/envs/cogvideox/lib/python3.10/site-packages/torch/serialization.py", line 967, in save
+[rank4]:     _save(
+[rank4]:   File "/mnt/petrelfs/zhangsiyu/miniconda3/envs/cogvideox/lib/python3.10/site-packages/torch/serialization.py", line 1268, in _save
+[rank4]:     zip_file.write_record(name, storage, num_bytes)
+[rank4]: RuntimeError: [enforce fail at inline_container.cc:858] . PytorchStreamWriter failed writing file data/2: file write failed
+
+[rank4]: During handling of the above exception, another exception occurred:
+
+[rank4]: Traceback (most recent call last):
+[rank4]:   File "/mnt/petrelfs/zhangsiyu/4dgen/CogVideo/finetune/train.py", line 28, in <module>
+[rank4]:     main()
+[rank4]:   File "/mnt/petrelfs/zhangsiyu/4dgen/CogVideo/finetune/train.py", line 24, in main
+[rank4]:     trainer.fit()
+[rank4]:   File "/mnt/petrelfs/zhangsiyu/4dgen/CogVideo/finetune/trainer.py", line 680, in fit
+[rank4]:     self.train()
+[rank4]:   File "/mnt/petrelfs/zhangsiyu/4dgen/CogVideo/finetune/trainer.py", line 490, in train
+[rank4]:     self.__maybe_save_checkpoint(global_step, must_save=True)
+[rank4]:   File "/mnt/petrelfs/zhangsiyu/4dgen/CogVideo/finetune/trainer.py", line 811, in __maybe_save_checkpoint
+[rank4]:     self.accelerator.save_state(save_path, safe_serialization=True)
+[rank4]:   File "/mnt/petrelfs/zhangsiyu/miniconda3/envs/cogvideox/lib/python3.10/site-packages/accelerate/accelerator.py", line 3660, in save_state
+[rank4]:     model.save_checkpoint(output_dir, ckpt_id, **save_model_func_kwargs)
+[rank4]:   File "/mnt/petrelfs/zhangsiyu/miniconda3/envs/cogvideox/lib/python3.10/site-packages/deepspeed/runtime/engine.py", line 3673, in save_checkpoint
+[rank4]:     self._save_zero_checkpoint(save_dir, tag)
+[rank4]:   File "/mnt/petrelfs/zhangsiyu/miniconda3/envs/cogvideox/lib/python3.10/site-packages/deepspeed/runtime/engine.py", line 4064, in _save_zero_checkpoint
+[rank4]:     self.checkpoint_engine.save(zero_sd, zero_checkpoint_name)
+[rank4]:   File "/mnt/petrelfs/zhangsiyu/miniconda3/envs/cogvideox/lib/python3.10/site-packages/deepspeed/runtime/checkpoint_engine/torch_checkpoint_engine.py", line 32, in save
+[rank4]:     torch.save(state_dict, path, _use_new_zipfile_serialization=self.zipfile_serialization)
+[rank4]:   File "/mnt/petrelfs/zhangsiyu/miniconda3/envs/cogvideox/lib/python3.10/site-packages/torch/serialization.py", line 966, in save
+[rank4]:     with _open_zipfile_writer(f) as opened_zipfile:
+[rank4]:   File "/mnt/petrelfs/zhangsiyu/miniconda3/envs/cogvideox/lib/python3.10/site-packages/torch/serialization.py", line 798, in __exit__
+[rank4]:     self.file_like.write_end_of_file()
+[rank4]: RuntimeError: [enforce fail at inline_container.cc:664] . unexpected pos 2785351424 vs 2785351312
+[rank3]: Traceback (most recent call last):
+[rank3]:   File "/mnt/petrelfs/zhangsiyu/miniconda3/envs/cogvideox/lib/python3.10/site-packages/torch/serialization.py", line 967, in save
+[rank3]:     _save(
+[rank3]:   File "/mnt/petrelfs/zhangsiyu/miniconda3/envs/cogvideox/lib/python3.10/site-packages/torch/serialization.py", line 1268, in _save
+[rank3]:     zip_file.write_record(name, storage, num_bytes)
+[rank3]: RuntimeError: [enforce fail at inline_container.cc:858] . PytorchStreamWriter failed writing file data/2: file write failed
+
+[rank3]: During handling of the above exception, another exception occurred:
+
+[rank3]: Traceback (most recent call last):
+[rank3]:   File "/mnt/petrelfs/zhangsiyu/4dgen/CogVideo/finetune/train.py", line 28, in <module>
+[rank3]:     main()
+[rank3]:   File "/mnt/petrelfs/zhangsiyu/4dgen/CogVideo/finetune/train.py", line 24, in main
+[rank3]:     trainer.fit()
+[rank3]:   File "/mnt/petrelfs/zhangsiyu/4dgen/CogVideo/finetune/trainer.py", line 680, in fit
+[rank3]:     self.train()
+[rank3]:   File "/mnt/petrelfs/zhangsiyu/4dgen/CogVideo/finetune/trainer.py", line 490, in train
+[rank3]:     self.__maybe_save_checkpoint(global_step, must_save=True)
+[rank3]:   File "/mnt/petrelfs/zhangsiyu/4dgen/CogVideo/finetune/trainer.py", line 811, in __maybe_save_checkpoint
+[rank3]:     self.accelerator.save_state(save_path, safe_serialization=True)
+[rank3]:   File "/mnt/petrelfs/zhangsiyu/miniconda3/envs/cogvideox/lib/python3.10/site-packages/accelerate/accelerator.py", line 3660, in save_state
+[rank3]:     model.save_checkpoint(output_dir, ckpt_id, **save_model_func_kwargs)
+[rank3]:   File "/mnt/petrelfs/zhangsiyu/miniconda3/envs/cogvideox/lib/python3.10/site-packages/deepspeed/runtime/engine.py", line 3673, in save_checkpoint
+[rank3]:     self._save_zero_checkpoint(save_dir, tag)
+[rank3]:   File "/mnt/petrelfs/zhangsiyu/miniconda3/envs/cogvideox/lib/python3.10/site-packages/deepspeed/runtime/engine.py", line 4064, in _save_zero_checkpoint
+[rank3]:     self.checkpoint_engine.save(zero_sd, zero_checkpoint_name)
+[rank3]:   File "/mnt/petrelfs/zhangsiyu/miniconda3/envs/cogvideox/lib/python3.10/site-packages/deepspeed/runtime/checkpoint_engine/torch_checkpoint_engine.py", line 32, in save
+[rank3]:     torch.save(state_dict, path, _use_new_zipfile_serialization=self.zipfile_serialization)
+[rank3]:   File "/mnt/petrelfs/zhangsiyu/miniconda3/envs/cogvideox/lib/python3.10/site-packages/torch/serialization.py", line 966, in save
+[rank3]:     with _open_zipfile_writer(f) as opened_zipfile:
+[rank3]:   File "/mnt/petrelfs/zhangsiyu/miniconda3/envs/cogvideox/lib/python3.10/site-packages/torch/serialization.py", line 798, in __exit__
+[rank3]:     self.file_like.write_end_of_file()
+[rank3]: RuntimeError: [enforce fail at inline_container.cc:664] . unexpected pos 2785350464 vs 2785350352
+[rank7]: Traceback (most recent call last):
+[rank7]:   File "/mnt/petrelfs/zhangsiyu/miniconda3/envs/cogvideox/lib/python3.10/site-packages/torch/serialization.py", line 967, in save
+[rank7]:     _save(
+[rank7]:   File "/mnt/petrelfs/zhangsiyu/miniconda3/envs/cogvideox/lib/python3.10/site-packages/torch/serialization.py", line 1268, in _save
+[rank7]:     zip_file.write_record(name, storage, num_bytes)
+[rank7]: RuntimeError: [enforce fail at inline_container.cc:858] . PytorchStreamWriter failed writing file data/2: file write failed
+
+[rank7]: During handling of the above exception, another exception occurred:
+
+[rank7]: Traceback (most recent call last):
+[rank7]:   File "/mnt/petrelfs/zhangsiyu/4dgen/CogVideo/finetune/train.py", line 28, in <module>
+[rank7]:     main()
+[rank7]:   File "/mnt/petrelfs/zhangsiyu/4dgen/CogVideo/finetune/train.py", line 24, in main
+[rank7]:     trainer.fit()
+[rank7]:   File "/mnt/petrelfs/zhangsiyu/4dgen/CogVideo/finetune/trainer.py", line 680, in fit
+[rank7]:     self.train()
+[rank7]:   File "/mnt/petrelfs/zhangsiyu/4dgen/CogVideo/finetune/trainer.py", line 490, in train
+[rank7]:     self.__maybe_save_checkpoint(global_step, must_save=True)
+[rank7]:   File "/mnt/petrelfs/zhangsiyu/4dgen/CogVideo/finetune/trainer.py", line 811, in __maybe_save_checkpoint
+[rank7]:     self.accelerator.save_state(save_path, safe_serialization=True)
+[rank7]:   File "/mnt/petrelfs/zhangsiyu/miniconda3/envs/cogvideox/lib/python3.10/site-packages/accelerate/accelerator.py", line 3660, in save_state
+[rank7]:     model.save_checkpoint(output_dir, ckpt_id, **save_model_func_kwargs)
+[rank7]:   File "/mnt/petrelfs/zhangsiyu/miniconda3/envs/cogvideox/lib/python3.10/site-packages/deepspeed/runtime/engine.py", line 3673, in save_checkpoint
+[rank7]:     self._save_zero_checkpoint(save_dir, tag)
+[rank7]:   File "/mnt/petrelfs/zhangsiyu/miniconda3/envs/cogvideox/lib/python3.10/site-packages/deepspeed/runtime/engine.py", line 4064, in _save_zero_checkpoint
+[rank7]:     self.checkpoint_engine.save(zero_sd, zero_checkpoint_name)
+[rank7]:   File "/mnt/petrelfs/zhangsiyu/miniconda3/envs/cogvideox/lib/python3.10/site-packages/deepspeed/runtime/checkpoint_engine/torch_checkpoint_engine.py", line 32, in save
+[rank7]:     torch.save(state_dict, path, _use_new_zipfile_serialization=self.zipfile_serialization)
+[rank7]:   File "/mnt/petrelfs/zhangsiyu/miniconda3/envs/cogvideox/lib/python3.10/site-packages/torch/serialization.py", line 966, in save
+[rank7]:     with _open_zipfile_writer(f) as opened_zipfile:
+[rank7]:   File "/mnt/petrelfs/zhangsiyu/miniconda3/envs/cogvideox/lib/python3.10/site-packages/torch/serialization.py", line 798, in __exit__
+[rank7]:     self.file_like.write_end_of_file()
+[rank7]: RuntimeError: [enforce fail at inline_container.cc:664] . unexpected pos 2785350848 vs 2785350736
+[rank2]: Traceback (most recent call last):
+[rank2]:   File "/mnt/petrelfs/zhangsiyu/miniconda3/envs/cogvideox/lib/python3.10/site-packages/torch/serialization.py", line 967, in save
+[rank2]:     _save(
+[rank2]:   File "/mnt/petrelfs/zhangsiyu/miniconda3/envs/cogvideox/lib/python3.10/site-packages/torch/serialization.py", line 1268, in _save
+[rank2]:     zip_file.write_record(name, storage, num_bytes)
+[rank2]: RuntimeError: [enforce fail at inline_container.cc:858] . PytorchStreamWriter failed writing file data/2: file write failed
+
+[rank2]: During handling of the above exception, another exception occurred:
+
+[rank2]: Traceback (most recent call last):
+[rank2]:   File "/mnt/petrelfs/zhangsiyu/4dgen/CogVideo/finetune/train.py", line 28, in <module>
+[rank2]:     main()
+[rank2]:   File "/mnt/petrelfs/zhangsiyu/4dgen/CogVideo/finetune/train.py", line 24, in main
+[rank2]:     trainer.fit()
+[rank2]:   File "/mnt/petrelfs/zhangsiyu/4dgen/CogVideo/finetune/trainer.py", line 680, in fit
+[rank2]:     self.train()
+[rank2]:   File "/mnt/petrelfs/zhangsiyu/4dgen/CogVideo/finetune/trainer.py", line 490, in train
+[rank2]:     self.__maybe_save_checkpoint(global_step, must_save=True)
+[rank2]:   File "/mnt/petrelfs/zhangsiyu/4dgen/CogVideo/finetune/trainer.py", line 811, in __maybe_save_checkpoint
+[rank2]:     self.accelerator.save_state(save_path, safe_serialization=True)
+[rank2]:   File "/mnt/petrelfs/zhangsiyu/miniconda3/envs/cogvideox/lib/python3.10/site-packages/accelerate/accelerator.py", line 3660, in save_state
+[rank2]:     model.save_checkpoint(output_dir, ckpt_id, **save_model_func_kwargs)
+[rank2]:   File "/mnt/petrelfs/zhangsiyu/miniconda3/envs/cogvideox/lib/python3.10/site-packages/deepspeed/runtime/engine.py", line 3673, in save_checkpoint
+[rank2]:     self._save_zero_checkpoint(save_dir, tag)
+[rank2]:   File "/mnt/petrelfs/zhangsiyu/miniconda3/envs/cogvideox/lib/python3.10/site-packages/deepspeed/runtime/engine.py", line 4064, in _save_zero_checkpoint
+[rank2]:     self.checkpoint_engine.save(zero_sd, zero_checkpoint_name)
+[rank2]:   File "/mnt/petrelfs/zhangsiyu/miniconda3/envs/cogvideox/lib/python3.10/site-packages/deepspeed/runtime/checkpoint_engine/torch_checkpoint_engine.py", line 32, in save
+[rank2]:     torch.save(state_dict, path, _use_new_zipfile_serialization=self.zipfile_serialization)
+[rank2]:   File "/mnt/petrelfs/zhangsiyu/miniconda3/envs/cogvideox/lib/python3.10/site-packages/torch/serialization.py", line 966, in save
+[rank2]:     with _open_zipfile_writer(f) as opened_zipfile:
+[rank2]:   File "/mnt/petrelfs/zhangsiyu/miniconda3/envs/cogvideox/lib/python3.10/site-packages/torch/serialization.py", line 798, in __exit__
+[rank2]:     self.file_like.write_end_of_file()
+[rank2]: RuntimeError: [enforce fail at inline_container.cc:664] . unexpected pos 2785350656 vs 2785350544
+Exception ignored in atexit callback: <function matmul_ext_update_autotune_table at 0x7f869adf1630>
+Traceback (most recent call last):
+  File "/mnt/petrelfs/zhangsiyu/miniconda3/envs/cogvideox/lib/python3.10/site-packages/deepspeed/ops/transformer/inference/triton/matmul_ext.py", line 480, in matmul_ext_update_autotune_table
+    fp16_matmul._update_autotune_table()
+  File "/mnt/petrelfs/zhangsiyu/miniconda3/envs/cogvideox/lib/python3.10/site-packages/deepspeed/ops/transformer/inference/triton/matmul_ext.py", line 458, in _update_autotune_table
+    TritonMatmul._update_autotune_table(__class__.__name__ + "_4d_kernel", __class__._4d_kernel)
+  File "/mnt/petrelfs/zhangsiyu/miniconda3/envs/cogvideox/lib/python3.10/site-packages/deepspeed/ops/transformer/inference/triton/matmul_ext.py", line 181, in _update_autotune_table
+    autotune_table = cache_manager.load()
+  File "/mnt/petrelfs/zhangsiyu/miniconda3/envs/cogvideox/lib/python3.10/site-packages/deepspeed/ops/transformer/inference/triton/matmul_ext.py", line 109, in load
+    with open(self.file_path, 'rb') as handle:
+FileNotFoundError: [Errno 2] No such file or directory: '/mnt/petrelfs/zhangsiyu/.triton/autotune/Fp16Matmul_4d_kernel.pickle'
+[rank1]: Traceback (most recent call last):
+[rank1]:   File "/mnt/petrelfs/zhangsiyu/miniconda3/envs/cogvideox/lib/python3.10/site-packages/torch/serialization.py", line 967, in save
+[rank1]:     _save(
+[rank1]:   File "/mnt/petrelfs/zhangsiyu/miniconda3/envs/cogvideox/lib/python3.10/site-packages/torch/serialization.py", line 1268, in _save
+[rank1]:     zip_file.write_record(name, storage, num_bytes)
+[rank1]: RuntimeError: [enforce fail at inline_container.cc:858] . PytorchStreamWriter failed writing file data/3: file write failed
+
+[rank1]: During handling of the above exception, another exception occurred:
+
+[rank1]: Traceback (most recent call last):
+[rank1]:   File "/mnt/petrelfs/zhangsiyu/4dgen/CogVideo/finetune/train.py", line 28, in <module>
+[rank1]:     main()
+[rank1]:   File "/mnt/petrelfs/zhangsiyu/4dgen/CogVideo/finetune/train.py", line 24, in main
+[rank1]:     trainer.fit()
+[rank1]:   File "/mnt/petrelfs/zhangsiyu/4dgen/CogVideo/finetune/trainer.py", line 680, in fit
+[rank1]:     self.train()
+[rank1]:   File "/mnt/petrelfs/zhangsiyu/4dgen/CogVideo/finetune/trainer.py", line 490, in train
+[rank1]:     self.__maybe_save_checkpoint(global_step, must_save=True)
+[rank1]:   File "/mnt/petrelfs/zhangsiyu/4dgen/CogVideo/finetune/trainer.py", line 811, in __maybe_save_checkpoint
+[rank1]:     self.accelerator.save_state(save_path, safe_serialization=True)
+[rank1]:   File "/mnt/petrelfs/zhangsiyu/miniconda3/envs/cogvideox/lib/python3.10/site-packages/accelerate/accelerator.py", line 3660, in save_state
+[rank1]:     model.save_checkpoint(output_dir, ckpt_id, **save_model_func_kwargs)
+[rank1]:   File "/mnt/petrelfs/zhangsiyu/miniconda3/envs/cogvideox/lib/python3.10/site-packages/deepspeed/runtime/engine.py", line 3673, in save_checkpoint
+[rank1]:     self._save_zero_checkpoint(save_dir, tag)
+[rank1]:   File "/mnt/petrelfs/zhangsiyu/miniconda3/envs/cogvideox/lib/python3.10/site-packages/deepspeed/runtime/engine.py", line 4064, in _save_zero_checkpoint
+[rank1]:     self.checkpoint_engine.save(zero_sd, zero_checkpoint_name)
+[rank1]:   File "/mnt/petrelfs/zhangsiyu/miniconda3/envs/cogvideox/lib/python3.10/site-packages/deepspeed/runtime/checkpoint_engine/torch_checkpoint_engine.py", line 32, in save
+[rank1]:     torch.save(state_dict, path, _use_new_zipfile_serialization=self.zipfile_serialization)
+[rank1]:   File "/mnt/petrelfs/zhangsiyu/miniconda3/envs/cogvideox/lib/python3.10/site-packages/torch/serialization.py", line 966, in save
+[rank1]:     with _open_zipfile_writer(f) as opened_zipfile:
+[rank1]:   File "/mnt/petrelfs/zhangsiyu/miniconda3/envs/cogvideox/lib/python3.10/site-packages/torch/serialization.py", line 798, in __exit__
+[rank1]:     self.file_like.write_end_of_file()
+[rank1]: RuntimeError: [enforce fail at inline_container.cc:664] . unexpected pos 5570689024 vs 5570688912
+[rank0]: Traceback (most recent call last):
+[rank0]:   File "/mnt/petrelfs/zhangsiyu/miniconda3/envs/cogvideox/lib/python3.10/site-packages/torch/serialization.py", line 967, in save
+[rank0]:     _save(
+[rank0]:   File "/mnt/petrelfs/zhangsiyu/miniconda3/envs/cogvideox/lib/python3.10/site-packages/torch/serialization.py", line 1268, in _save
+[rank0]:     zip_file.write_record(name, storage, num_bytes)
+[rank0]: RuntimeError: [enforce fail at inline_container.cc:858] . PytorchStreamWriter failed writing file data/0: file write failed
+
+[rank0]: During handling of the above exception, another exception occurred:
+
+[rank0]: Traceback (most recent call last):
+[rank0]:   File "/mnt/petrelfs/zhangsiyu/4dgen/CogVideo/finetune/train.py", line 28, in <module>
+[rank0]:     main()
+[rank0]:   File "/mnt/petrelfs/zhangsiyu/4dgen/CogVideo/finetune/train.py", line 24, in main
+[rank0]:     trainer.fit()
+[rank0]:   File "/mnt/petrelfs/zhangsiyu/4dgen/CogVideo/finetune/trainer.py", line 680, in fit
+[rank0]:     self.train()
+[rank0]:   File "/mnt/petrelfs/zhangsiyu/4dgen/CogVideo/finetune/trainer.py", line 490, in train
+[rank0]:     self.__maybe_save_checkpoint(global_step, must_save=True)
+[rank0]:   File "/mnt/petrelfs/zhangsiyu/4dgen/CogVideo/finetune/trainer.py", line 811, in __maybe_save_checkpoint
+[rank0]:     self.accelerator.save_state(save_path, safe_serialization=True)
+[rank0]:   File "/mnt/petrelfs/zhangsiyu/miniconda3/envs/cogvideox/lib/python3.10/site-packages/accelerate/accelerator.py", line 3660, in save_state
+[rank0]:     model.save_checkpoint(output_dir, ckpt_id, **save_model_func_kwargs)
+[rank0]:   File "/mnt/petrelfs/zhangsiyu/miniconda3/envs/cogvideox/lib/python3.10/site-packages/deepspeed/runtime/engine.py", line 3666, in save_checkpoint
+[rank0]:     self._save_checkpoint(save_dir,
+[rank0]:   File "/mnt/petrelfs/zhangsiyu/miniconda3/envs/cogvideox/lib/python3.10/site-packages/deepspeed/runtime/engine.py", line 3918, in _save_checkpoint
+[rank0]:     self.checkpoint_engine.save(state_dict=state, path=save_path)
+[rank0]:   File "/mnt/petrelfs/zhangsiyu/miniconda3/envs/cogvideox/lib/python3.10/site-packages/deepspeed/runtime/checkpoint_engine/torch_checkpoint_engine.py", line 32, in save
+[rank0]:     torch.save(state_dict, path, _use_new_zipfile_serialization=self.zipfile_serialization)
+[rank0]:   File "/mnt/petrelfs/zhangsiyu/miniconda3/envs/cogvideox/lib/python3.10/site-packages/torch/serialization.py", line 966, in save
+[rank0]:     with _open_zipfile_writer(f) as opened_zipfile:
+[rank0]:   File "/mnt/petrelfs/zhangsiyu/miniconda3/envs/cogvideox/lib/python3.10/site-packages/torch/serialization.py", line 798, in __exit__
+[rank0]:     self.file_like.write_end_of_file()
+[rank0]: RuntimeError: [enforce fail at inline_container.cc:664] . unexpected pos 275776 vs 275670
+Training steps: 100%|██████████| 9/9 [06:24<00:00, 42.75s/it, grad_norm=0.91, loss=0.168, lr=1.82e-5]
+W0120 22:22:14.538000 7883 site-packages/torch/distributed/elastic/multiprocessing/api.py:908] Sending process 11411 closing signal SIGTERM
+W0120 22:22:14.543000 7883 site-packages/torch/distributed/elastic/multiprocessing/api.py:908] Sending process 11412 closing signal SIGTERM
+W0120 22:22:14.543000 7883 site-packages/torch/distributed/elastic/multiprocessing/api.py:908] Sending process 11413 closing signal SIGTERM
+W0120 22:22:14.543000 7883 site-packages/torch/distributed/elastic/multiprocessing/api.py:908] Sending process 11414 closing signal SIGTERM
+W0120 22:22:14.543000 7883 site-packages/torch/distributed/elastic/multiprocessing/api.py:908] Sending process 11415 closing signal SIGTERM
+W0120 22:22:14.543000 7883 site-packages/torch/distributed/elastic/multiprocessing/api.py:908] Sending process 11416 closing signal SIGTERM
+W0120 22:22:14.543000 7883 site-packages/torch/distributed/elastic/multiprocessing/api.py:908] Sending process 11417 closing signal SIGTERM
+E0120 22:22:16.023000 7883 site-packages/torch/distributed/elastic/multiprocessing/api.py:882] failed (exitcode: 1) local_rank: 7 (pid: 11418) of binary: /mnt/petrelfs/zhangsiyu/miniconda3/envs/cogvideox/bin/python3.10
+Traceback (most recent call last):
+  File "/mnt/petrelfs/zhangsiyu/miniconda3/envs/cogvideox/bin/accelerate", line 7, in <module>
+    sys.exit(main())
+  File "/mnt/petrelfs/zhangsiyu/miniconda3/envs/cogvideox/lib/python3.10/site-packages/accelerate/commands/accelerate_cli.py", line 50, in main
+    args.func(args)
+  File "/mnt/petrelfs/zhangsiyu/miniconda3/envs/cogvideox/lib/python3.10/site-packages/accelerate/commands/launch.py", line 1266, in launch_command
+    deepspeed_launcher(args)
+  File "/mnt/petrelfs/zhangsiyu/miniconda3/envs/cogvideox/lib/python3.10/site-packages/accelerate/commands/launch.py", line 952, in deepspeed_launcher
+    distrib_run.run(args)
+  File "/mnt/petrelfs/zhangsiyu/miniconda3/envs/cogvideox/lib/python3.10/site-packages/torch/distributed/run.py", line 927, in run
+    elastic_launch(
+  File "/mnt/petrelfs/zhangsiyu/miniconda3/envs/cogvideox/lib/python3.10/site-packages/torch/distributed/launcher/api.py", line 156, in __call__
+    return launch_agent(self._config, self._entrypoint, list(args))
+  File "/mnt/petrelfs/zhangsiyu/miniconda3/envs/cogvideox/lib/python3.10/site-packages/torch/distributed/launcher/api.py", line 293, in launch_agent
+    raise ChildFailedError(
+torch.distributed.elastic.multiprocessing.errors.ChildFailedError: 
+============================================================
+train.py FAILED
+------------------------------------------------------------
+Failures:
+  <NO_OTHER_FAILURES>
+------------------------------------------------------------
+Root Cause (first observed failure):
+[0]:
+  time      : 2026-01-20_22:22:14
+  host      : HOST-10-140-66-31
+  rank      : 7 (local_rank: 7)
+  exitcode  : 1 (pid: 11418)
+  error_file: <N/A>
+  traceback : To enable traceback see: https://pytorch.org/docs/stable/elastic/errors.html
+============================================================
+srun: error: HOST-10-140-66-31: task 0: Exited with exit code 1
