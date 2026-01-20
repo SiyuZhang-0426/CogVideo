@@ -1,12 +1,0 @@
-15:4: not a valid test operator:  
-15:4: not a valid test operator: 12.4
-21:4: not a valid test operator: (
-21:4: not a valid test operator: 550.90.07
-⚠️ Authentication failed or not provided. This might be okay for public repositories.
-Error: Invalid user token.
-Continuing anyway...
-Found 23 files in repository 'zai-org/CogVideoX1.5-5B'
-Checking 0 files after filtering
-Found 0 files to download
-✓ All files are already downloaded and valid!
-Checking files: 0it [00:00, ?it/s]Checking files: 0it [00:00, ?it/s]
