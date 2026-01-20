@@ -47,11 +47,11 @@ VALIDATION_ARGS=(
     --gen_fps 16
 ) && \
 accelerate launch --config_file accelerate_config.yaml train.py \
-    '${MODEL_ARGS[@]}' \
-    '${OUTPUT_ARGS[@]}' \
-    '${DATA_ARGS[@]}' \
-    '${TRAIN_ARGS[@]}' \
-    '${SYSTEM_ARGS[@]}' \
-    '${CHECKPOINT_ARGS[@]}' \
-    '${VALIDATION_ARGS[@]}'
+    \"\${MODEL_ARGS[@]}\" \
+    \"\${OUTPUT_ARGS[@]}\" \
+    \"\${DATA_ARGS[@]}\" \
+    \"\${TRAIN_ARGS[@]}\" \
+    \"\${SYSTEM_ARGS[@]}\" \
+    \"\${CHECKPOINT_ARGS[@]}\" \
+    \"\${VALIDATION_ARGS[@]}\"
 "
