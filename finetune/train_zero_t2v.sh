@@ -1,8 +1,8 @@
 #!/bin/bash
 #SBATCH -p $vp
-#SBATCH --gres=gpu:4
+#SBATCH --gres=gpu:8
 
-srun -p $vp --gres=gpu:4 apptainer exec --nv ~/ubuntu.sif bash -c "
+srun -p $vp --gres=gpu:8 apptainer exec --nv ~/ubuntu.sif bash -c "
 source ~/.bashrc && \
 conda activate cogvideox && \
 cd /mnt/petrelfs/zhangsiyu/4dgen/CogVideo/finetune && \
