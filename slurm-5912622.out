@@ -1,0 +1,6 @@
+15:4: not a valid test operator:  
+15:4: not a valid test operator: 12.4
+21:4: not a valid test operator: (
+21:4: not a valid test operator: 550.90.07
+/usr/bin/bash: line 2: cd: /mnt/petrelfs/zhangsiyu/4dgen/CogVideo/finetune: No such file or directory
+srun: error: HOST-10-140-66-178: task 0: Exited with exit code 1
