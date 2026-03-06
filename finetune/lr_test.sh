@@ -24,10 +24,10 @@ DATA_ARGS=(
     --train_resolution '81x768x1360'
 ) && \
 TRAIN_ARGS=(
-    --train_epochs 1
+    --train_epochs 10
     --seed 42
-    --batch_size 1
-    --gradient_accumulation_steps 1
+    --batch_size 4
+    --gradient_accumulation_steps 2
     --mixed_precision 'bf16'
 ) && \
 SYSTEM_ARGS=(

@@ -72,7 +72,11 @@ class Trainer:
             train_width=self.args.train_resolution[2],
         )
 
-        self.components: Components = self.load_components()
+        if self.args.lr_test_only:
+            self.components = Components()
+            self.components.transformer = torch.nn.Linear(1, 1)
+        else:
+            self.components = self.load_components()
         self.accelerator: Accelerator = None
         self.dataset: Dataset = None
         self.data_loader: DataLoader = None
@@ -156,7 +160,9 @@ class Trainer:
             if self.args.enable_tiling:
                 self.components.vae.enable_tiling()
 
-        self.state.transformer_config = self.components.transformer.config
+        # NOTE: for lr test
+        # self.state.transformer_config = self.components.transformer.config
+        self.state.transformer_config = None
 
     def prepare_dataset(self) -> None:
         logger.info("Initializing dataset and dataloader")
@@ -509,10 +515,7 @@ class Trainer:
             self.args.train_steps = self.args.train_epochs
 
         if self.data_loader is None:
-            desired_steps = self.args.train_steps
-            dataset_length = (
-                desired_steps * self.args.gradient_accumulation_steps * self.args.batch_size
-            )
+            dataset_length = 2048
 
             class DummyDataset(Dataset):
                 def __len__(self):

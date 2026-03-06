@@ -19,12 +19,10 @@ from finetune.schemas import Args
 
 def main():
     args = Args.parse_args()
+    args.lr_test_only = True
     trainer_cls = get_model_cls(args.model_name, args.training_type)
     trainer = trainer_cls(args)
     trainer.check_setting()
-    trainer.prepare_models()
-    trainer.prepare_trainable_parameters()
-    trainer.prepare_optimizer()
     trainer.prepare_trackers()
     trainer.lr_test()
 
