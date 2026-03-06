@@ -72,11 +72,7 @@ class Trainer:
             train_width=self.args.train_resolution[2],
         )
 
-        if self.args.lr_test_only:
-            self.components = Components()
-            self.components.transformer = torch.nn.Linear(1, 1)
-        else:
-            self.components = self.load_components()
+        self.components: Components = self.load_components()
         self.accelerator: Accelerator = None
         self.dataset: Dataset = None
         self.data_loader: DataLoader = None
@@ -160,9 +156,7 @@ class Trainer:
             if self.args.enable_tiling:
                 self.components.vae.enable_tiling()
 
-        # NOTE: for lr test
-        # self.state.transformer_config = self.components.transformer.config
-        self.state.transformer_config = None
+        self.state.transformer_config = self.components.transformer.config
 
     def prepare_dataset(self) -> None:
         logger.info("Initializing dataset and dataloader")
@@ -497,87 +491,6 @@ class Trainer:
         if self.args.do_validation:
             free_memory()
             self.validate(global_step)
-
-        del self.components
-        free_memory()
-        memory_statistics = get_memory_statistics()
-        logger.info(f"Memory after training end: {json.dumps(memory_statistics, indent=4)}")
-
-        accelerator.end_training()
-
-    def lr_test(self) -> None:
-        logger.info("Starting lr test")
-
-        memory_statistics = get_memory_statistics()
-        logger.info(f"Memory before lr test start: {json.dumps(memory_statistics, indent=4)}")
-
-        if self.args.train_steps is None:
-            self.args.train_steps = self.args.train_epochs
-
-        if self.data_loader is None:
-            dataset_length = 2048
-
-            class DummyDataset(Dataset):
-                def __len__(self):
-                    return dataset_length
-
-                def __getitem__(self, index):
-                    return index
-
-            self.dataset = DummyDataset()
-            self.data_loader = torch.utils.data.DataLoader(
-                self.dataset,
-                batch_size=self.args.batch_size,
-                shuffle=False,
-                num_workers=0,
-                pin_memory=self.args.pin_memory,
-            )
-
-        self.state.total_batch_size_count = (
-            self.args.batch_size
-            * self.accelerator.num_processes
-            * self.args.gradient_accumulation_steps
-        )
-        info = {
-            "trainable parameters": self.state.num_trainable_parameters,
-            "train epochs": self.args.train_epochs,
-            "train steps": self.args.train_steps,
-            "train batch size total count": self.state.total_batch_size_count,
-            "gradient accumulation steps": self.args.gradient_accumulation_steps,
-        }
-        if self.dataset is not None:
-            info["total samples"] = len(self.dataset)
-        if self.data_loader is not None:
-            info["batches per device"] = self.args.batch_size
-            info["total batches observed per epoch"] = len(self.data_loader)
-        logger.info(f"Training configuration: {json.dumps(info, indent=4)}")
-
-        if self.optimizer is None or self.lr_scheduler is None:
-            self.prepare_optimizer()
-
-        progress_bar = tqdm(
-            range(0, self.args.train_steps),
-            desc="Training steps",
-            disable=not self.accelerator.is_local_main_process,
-        )
-
-        accelerator = self.accelerator
-        self.components.transformer, self.optimizer, self.lr_scheduler = accelerator.prepare(
-            self.components.transformer, self.optimizer, self.lr_scheduler
-        )
-
-        for step in range(self.args.train_steps):
-            self.optimizer.step()
-            self.lr_scheduler.step()
-            self.optimizer.zero_grad()
-
-            lr_value = self.lr_scheduler.get_last_lr()[0]
-            logs = {"lr": lr_value}
-            progress_bar.update(1)
-            progress_bar.set_postfix(logs)
-            accelerator.log(logs, step=step + 1)
-
-        accelerator.wait_for_everyone()
 
         del self.components
         free_memory()
