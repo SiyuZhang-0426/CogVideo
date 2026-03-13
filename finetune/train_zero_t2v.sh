@@ -5,26 +5,26 @@
 srun -p $vp --gres=gpu:8 apptainer exec --nv ~/ubuntu.sif bash -c "
 source ~/.bashrc && \
 conda activate cogvideox && \
-cd /mnt/petrelfs/zhangsiyu/4dgen/CogVideo/finetune && \
+cd /mnt/petrelfs/zhangsiyu/CogVideo/finetune && \
 export TOKENIZERS_PARALLELISM=false && \
 MODEL_ARGS=(
-    --model_path '/mnt/petrelfs/zhangsiyu/4dgen/CogVideo/CogVideoX1.5-5B'
+    --model_path '/mnt/petrelfs/zhangsiyu/CogVideo/CogVideoX1.5-5B'
     --model_name 'cogvideox1.5-t2v'
     --model_type 't2v'
     --training_type 'sft'
 ) && \
 OUTPUT_ARGS=(
-    --output_dir '/mnt/petrelfs/zhangsiyu/4dgen/CogVideo/finetune_test_zero'
+    --output_dir '/mnt/petrelfs/zhangsiyu/CogVideo/finetune_test_zero'
     --report_to 'tensorboard'
 ) && \
 DATA_ARGS=(
-    --data_root '/mnt/petrelfs/zhangsiyu/4dgen/CogVideo/Disney-VideoGeneration-Dataset'
+    --data_root '/mnt/petrelfs/zhangsiyu/CogVideo/Disney-VideoGeneration-Dataset'
     --caption_column 'prompt.txt'
     --video_column 'videos.txt'
     --train_resolution '81x768x1360'
 ) && \
 TRAIN_ARGS=(
-    --train_epochs 1
+    --train_epochs 10
     --seed 42
     --batch_size 1
     --gradient_accumulation_steps 1
@@ -36,12 +36,12 @@ SYSTEM_ARGS=(
     --nccl_timeout 1800
 ) && \
 CHECKPOINT_ARGS=(
-    --checkpointing_steps 10
+    --checkpointing_steps 10000
     --checkpointing_limit 2
 ) && \
 VALIDATION_ARGS=(
     --do_validation false
-    --validation_dir '/mnt/petrelfs/zhangsiyu/4dgen/CogVideo/Disney-VideoGeneration-Dataset'
+    --validation_dir '/mnt/petrelfs/zhangsiyu/CogVideo/Disney-VideoGeneration-Dataset'
     --validation_steps 20
     --validation_prompts 'prompts.txt'
     --gen_fps 16
