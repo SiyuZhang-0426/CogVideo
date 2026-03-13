@@ -6,12 +6,11 @@ current_dir = Path(__file__).parent
 project_root = current_dir.parent
 
 current_dir_str = str(current_dir)
-if current_dir_str in sys.path:
-    sys.path.remove(current_dir_str)
+sys.path = [p for p in sys.path if p not in ("", current_dir_str)]
 
 project_root_str = str(project_root)
 if project_root_str not in sys.path:
-    sys.path.append(project_root_str)
+    sys.path.insert(0, project_root_str)
 
 from finetune.models.utils import get_model_cls
 from finetune.schemas import Args
