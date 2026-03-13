@@ -175,11 +175,6 @@ class Args(BaseModel):
             )
         return v
 
-    def model_dump(self, *args, **kwargs):
-        if "mode" not in kwargs:
-            kwargs["mode"] = "json"
-        return super().model_dump(*args, **kwargs)
-
     @classmethod
     def parse_args(cls):
         """Parse command line arguments and return Args instance"""

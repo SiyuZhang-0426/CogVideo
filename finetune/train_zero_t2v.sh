@@ -35,7 +35,7 @@ SYSTEM_ARGS=(
     --nccl_timeout 1800
 ) && \
 CHECKPOINT_ARGS=(
-    --checkpointing_steps 10000
+    --checkpointing_steps 100
     --checkpointing_limit 2
 ) && \
 VALIDATION_ARGS=(
