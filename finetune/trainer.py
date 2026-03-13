@@ -367,7 +367,14 @@ class Trainer:
         logger.info("Initializing trackers")
 
         tracker_name = self.args.tracker_name or "finetrainers-experiment"
-        self.accelerator.init_trackers(tracker_name, config=self.args.model_dump())
+        # Convert config to JSON-serializable types for TensorBoard
+        # TensorBoard only accepts int, float, str, bool, or torch.Tensor
+        config = self.args.model_dump(mode="json")
+        # Convert lists and other non-scalar values to strings for TensorBoard compatibility
+        for key, value in config.items():
+            if not isinstance(value, (int, float, str, bool, type(None))):
+                config[key] = str(value)
+        self.accelerator.init_trackers(tracker_name, config=config)
 
     def train(self) -> None:
         logger.info("Starting training")
