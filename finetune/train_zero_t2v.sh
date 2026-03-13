@@ -1,6 +1,5 @@
 #!/bin/bash
-#SBATCH -p $vp
-#SBATCH --gres=gpu:8
+#SBATCH -J TRAIN_ZERO_T2V
 
 srun -p $vp --gres=gpu:8 apptainer exec --nv ~/ubuntu.sif bash -c "
 source ~/.bashrc && \

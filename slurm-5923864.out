@@ -1,0 +1,39 @@
+15:4: not a valid test operator:  
+15:4: not a valid test operator: 12.4
+21:4: not a valid test operator: (
+21:4: not a valid test operator: 550.90.07
+export VSCODE_SERVER_CUSTOM_GLIBC_LINKER='/sysroot/lib/ld-linux-x86-64.so.2';
+export VSCODE_SERVER_CUSTOM_GLIBC_PATH='/sysroot/../lib:/sysroot/../lib64:/sysroot/lib:/sysroot/usr/lib';
+export VSCODE_SERVER_PATCHELF_PATH='/usr/bin/patchelf';
+⚠️ Authentication failed or not provided. This might be okay for public repositories.
+Error: Invalid user token.
+Continuing anyway...
+Found 23 files in repository 'zai-org/CogVideoX1.5-5B'
+Checking 20 files after filtering
+Checking files:   0%|          | 0/20 [00:00<?, ?it/s]Checking files: 100%|██████████| 20/20 [00:00<00:00, 2068.20it/s]
+Found 20 files to download
+
+Downloading files:
+Downloading:   0%|          | 0/20 [00:00<?, ?it/s]/mnt/petrelfs/zhangsiyu/miniconda3/envs/cogvideox/lib/python3.10/site-packages/huggingface_hub/file_download.py:942: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+Downloading:   5%|▌         | 1/20 [00:00<00:17,  1.07it/s]Downloading:  10%|█         | 2/20 [00:01<00:16,  1.11it/s]Downloading:  15%|█▌        | 3/20 [00:02<00:16,  1.06it/s]Downloading:  20%|██        | 4/20 [00:03<00:14,  1.08it/s]Downloading:  25%|██▌       | 5/20 [00:04<00:13,  1.08it/s]Downloading:  30%|███       | 6/20 [17:57<1:25:14, 365.32s/it]Downloading:  35%|███▌      | 7/20 [35:51<2:09:19, 596.91s/it]Downloading:  40%|████      | 8/20 [53:30<2:28:50, 744.22s/it]Downloading:  45%|████▌     | 9/20 [1:08:26<2:25:06, 791.47s/it]Downloading:  50%|█████     | 10/20 [1:08:27<1:31:14, 547.45s/it]Downloading:  55%|█████▌    | 11/20 [1:08:27<57:01, 380.17s/it]  Downloading:  60%|██████    | 12/20 [1:08:28<35:18, 264.80s/it]Downloading:  65%|██████▌   | 13/20 [1:08:29<21:34, 184.87s/it]Downloading:  70%|███████   | 14/20 [1:08:30<12:55, 129.33s/it]Downloading:  75%|███████▌  | 15/20 [1:48:25<1:07:40, 812.12s/it]Downloading:  80%|████████  | 16/20 [2:23:33<1:20:08, 1202.22s/it]Downloading:  85%|████████▌ | 17/20 [2:31:57<49:36, 992.32s/it]   Downloading:  90%|█████████ | 18/20 [2:31:58<23:08, 694.45s/it]Downloading:  95%|█████████▌| 19/20 [2:31:59<08:06, 486.15s/it]Downloading: 100%|██████████| 20/20 [2:38:32<00:00, 458.24s/it]Downloading: 100%|██████████| 20/20 [2:38:32<00:00, 475.64s/it]
+✓ Downloaded: README.md -> /mnt/petrelfs/zhangsiyu/CogVideo/CogVideoX1.5-5B/README.md
+✓ Downloaded: README_zh.md -> /mnt/petrelfs/zhangsiyu/CogVideo/CogVideoX1.5-5B/README_zh.md
+✓ Downloaded: model_index.json -> /mnt/petrelfs/zhangsiyu/CogVideo/CogVideoX1.5-5B/model_index.json
+✓ Downloaded: scheduler/scheduler_config.json -> /mnt/petrelfs/zhangsiyu/CogVideo/CogVideoX1.5-5B/scheduler/scheduler_config.json
+✓ Downloaded: text_encoder/config.json -> /mnt/petrelfs/zhangsiyu/CogVideo/CogVideoX1.5-5B/text_encoder/config.json
+✓ Downloaded: text_encoder/model-00001-of-00004.safetensors -> /mnt/petrelfs/zhangsiyu/CogVideo/CogVideoX1.5-5B/text_encoder/model-00001-of-00004.safetensors
+✓ Downloaded: text_encoder/model-00002-of-00004.safetensors -> /mnt/petrelfs/zhangsiyu/CogVideo/CogVideoX1.5-5B/text_encoder/model-00002-of-00004.safetensors
+✓ Downloaded: text_encoder/model-00003-of-00004.safetensors -> /mnt/petrelfs/zhangsiyu/CogVideo/CogVideoX1.5-5B/text_encoder/model-00003-of-00004.safetensors
+✓ Downloaded: text_encoder/model-00004-of-00004.safetensors -> /mnt/petrelfs/zhangsiyu/CogVideo/CogVideoX1.5-5B/text_encoder/model-00004-of-00004.safetensors
+✓ Downloaded: text_encoder/model.safetensors.index.json -> /mnt/petrelfs/zhangsiyu/CogVideo/CogVideoX1.5-5B/text_encoder/model.safetensors.index.json
+✓ Downloaded: tokenizer/added_tokens.json -> /mnt/petrelfs/zhangsiyu/CogVideo/CogVideoX1.5-5B/tokenizer/added_tokens.json
+✓ Downloaded: tokenizer/special_tokens_map.json -> /mnt/petrelfs/zhangsiyu/CogVideo/CogVideoX1.5-5B/tokenizer/special_tokens_map.json
+✓ Downloaded: tokenizer/tokenizer_config.json -> /mnt/petrelfs/zhangsiyu/CogVideo/CogVideoX1.5-5B/tokenizer/tokenizer_config.json
+✓ Downloaded: transformer/config.json -> /mnt/petrelfs/zhangsiyu/CogVideo/CogVideoX1.5-5B/transformer/config.json
+✓ Downloaded: transformer/diffusion_pytorch_model-00001-of-00003.safetensors -> /mnt/petrelfs/zhangsiyu/CogVideo/CogVideoX1.5-5B/transformer/diffusion_pytorch_model-00001-of-00003.safetensors
+✓ Downloaded: transformer/diffusion_pytorch_model-00002-of-00003.safetensors -> /mnt/petrelfs/zhangsiyu/CogVideo/CogVideoX1.5-5B/transformer/diffusion_pytorch_model-00002-of-00003.safetensors
+✓ Downloaded: transformer/diffusion_pytorch_model-00003-of-00003.safetensors -> /mnt/petrelfs/zhangsiyu/CogVideo/CogVideoX1.5-5B/transformer/diffusion_pytorch_model-00003-of-00003.safetensors
+✓ Downloaded: transformer/diffusion_pytorch_model.safetensors.index.json -> /mnt/petrelfs/zhangsiyu/CogVideo/CogVideoX1.5-5B/transformer/diffusion_pytorch_model.safetensors.index.json
+✓ Downloaded: vae/config.json -> /mnt/petrelfs/zhangsiyu/CogVideo/CogVideoX1.5-5B/vae/config.json
+✓ Downloaded: vae/diffusion_pytorch_model.safetensors -> /mnt/petrelfs/zhangsiyu/CogVideo/CogVideoX1.5-5B/vae/diffusion_pytorch_model.safetensors
