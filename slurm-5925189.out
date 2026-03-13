@@ -1,0 +1,203 @@
+15:4: not a valid test operator:  
+15:4: not a valid test operator: 12.4
+21:4: not a valid test operator: (
+21:4: not a valid test operator: 550.90.07
+export VSCODE_SERVER_CUSTOM_GLIBC_LINKER='/sysroot/lib/ld-linux-x86-64.so.2';
+export VSCODE_SERVER_CUSTOM_GLIBC_PATH='/sysroot/../lib:/sysroot/../lib64:/sysroot/lib:/sysroot/usr/lib';
+export VSCODE_SERVER_PATCHELF_PATH='/usr/bin/patchelf';
+W0313 16:42:22.710000 57255 site-packages/torch/distributed/run.py:803] 
+W0313 16:42:22.710000 57255 site-packages/torch/distributed/run.py:803] *****************************************
+W0313 16:42:22.710000 57255 site-packages/torch/distributed/run.py:803] Setting OMP_NUM_THREADS environment variable for each process to be 1 in default, to avoid your system being overloaded, please further tune the variable for optimal performance in your application as needed. 
+W0313 16:42:22.710000 57255 site-packages/torch/distributed/run.py:803] *****************************************
+You set `add_prefix_space`. The tokenizer needs to be converted from the slow tokenizers
+You set `add_prefix_space`. The tokenizer needs to be converted from the slow tokenizers
+You set `add_prefix_space`. The tokenizer needs to be converted from the slow tokenizers
+You set `add_prefix_space`. The tokenizer needs to be converted from the slow tokenizers
+You set `add_prefix_space`. The tokenizer needs to be converted from the slow tokenizers
+You set `add_prefix_space`. The tokenizer needs to be converted from the slow tokenizers
+You set `add_prefix_space`. The tokenizer needs to be converted from the slow tokenizers
+You set `add_prefix_space`. The tokenizer needs to be converted from the slow tokenizers
+Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]Loading checkpoint shards:  25%|██▌       | 1/4 [00:00<00:00,  3.22it/s]Loading checkpoint shards:  25%|██▌       | 1/4 [00:00<00:00,  3.21it/s]Loading checkpoint shards:  25%|██▌       | 1/4 [00:00<00:00,  4.06it/s]Loading checkpoint shards:  25%|██▌       | 1/4 [00:00<00:00,  3.22it/s]Loading checkpoint shards:  25%|██▌       | 1/4 [00:00<00:00,  3.21it/s]Loading checkpoint shards:  25%|██▌       | 1/4 [00:00<00:00,  3.22it/s]Loading checkpoint shards:  25%|██▌       | 1/4 [00:00<00:00,  3.30it/s]Loading checkpoint shards:  25%|██▌       | 1/4 [00:00<00:00,  3.61it/s]Loading checkpoint shards:  50%|█████     | 2/4 [00:00<00:00,  3.30it/s]Loading checkpoint shards:  50%|█████     | 2/4 [00:00<00:00,  3.30it/s]Loading checkpoint shards:  50%|█████     | 2/4 [00:00<00:00,  3.62it/s]Loading checkpoint shards:  50%|█████     | 2/4 [00:00<00:00,  3.46it/s]Loading checkpoint shards:  50%|█████     | 2/4 [00:00<00:00,  3.34it/s]Loading checkpoint shards:  50%|█████     | 2/4 [00:00<00:00,  3.30it/s]Loading checkpoint shards:  50%|█████     | 2/4 [00:00<00:00,  3.30it/s]Loading checkpoint shards:  50%|█████     | 2/4 [00:00<00:00,  3.29it/s]Loading checkpoint shards:  75%|███████▌  | 3/4 [00:00<00:00,  3.45it/s]Loading checkpoint shards:  75%|███████▌  | 3/4 [00:00<00:00,  3.45it/s]Loading checkpoint shards:  75%|███████▌  | 3/4 [00:00<00:00,  3.54it/s]Loading checkpoint shards:  75%|███████▌  | 3/4 [00:00<00:00,  3.63it/s]Loading checkpoint shards:  75%|███████▌  | 3/4 [00:00<00:00,  3.47it/s]Loading checkpoint shards:  75%|███████▌  | 3/4 [00:00<00:00,  3.45it/s]Loading checkpoint shards:  75%|███████▌  | 3/4 [00:00<00:00,  3.45it/s]Loading checkpoint shards:  75%|███████▌  | 3/4 [00:00<00:00,  3.45it/s]Loading checkpoint shards: 100%|██████████| 4/4 [00:01<00:00,  3.72it/s]Loading checkpoint shards: 100%|██████████| 4/4 [00:01<00:00,  3.73it/s]Loading checkpoint shards: 100%|██████████| 4/4 [00:01<00:00,  3.57it/s]Loading checkpoint shards: 100%|██████████| 4/4 [00:01<00:00,  3.71it/s]
+Loading checkpoint shards: 100%|██████████| 4/4 [00:01<00:00,  3.60it/s]
+Loading checkpoint shards: 100%|██████████| 4/4 [00:01<00:00,  3.57it/s]Loading checkpoint shards: 100%|██████████| 4/4 [00:01<00:00,  3.72it/s]
+Loading checkpoint shards: 100%|██████████| 4/4 [00:01<00:00,  3.84it/s]Loading checkpoint shards: 100%|██████████| 4/4 [00:01<00:00,  3.71it/s]Loading checkpoint shards: 100%|██████████| 4/4 [00:01<00:00,  3.57it/s]
+Loading checkpoint shards: 100%|██████████| 4/4 [00:01<00:00,  3.79it/s]
+Loading checkpoint shards: 100%|██████████| 4/4 [00:01<00:00,  3.57it/s]
+Loading checkpoint shards: 100%|██████████| 4/4 [00:01<00:00,  3.71it/s]Loading checkpoint shards: 100%|██████████| 4/4 [00:01<00:00,  3.57it/s]
+Loading checkpoint shards: 100%|██████████| 4/4 [00:01<00:00,  3.77it/s]Loading checkpoint shards: 100%|██████████| 4/4 [00:01<00:00,  3.68it/s]
+Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]Loading checkpoint shards:  33%|███▎      | 1/3 [00:07<00:15,  7.88s/it]Loading checkpoint shards:  33%|███▎      | 1/3 [00:08<00:16,  8.27s/it]Loading checkpoint shards:  33%|███▎      | 1/3 [00:08<00:16,  8.26s/it]Loading checkpoint shards:  33%|███▎      | 1/3 [00:08<00:16,  8.27s/it]Loading checkpoint shards:  33%|███▎      | 1/3 [00:08<00:16,  8.27s/it]Loading checkpoint shards:  33%|███▎      | 1/3 [00:08<00:16,  8.27s/it]Loading checkpoint shards:  33%|███▎      | 1/3 [00:08<00:16,  8.27s/it]Loading checkpoint shards:  33%|███▎      | 1/3 [00:08<00:16,  8.26s/it]Loading checkpoint shards:  67%|██████▋   | 2/3 [00:15<00:07,  7.82s/it]Loading checkpoint shards:  67%|██████▋   | 2/3 [00:16<00:08,  8.05s/it]Loading checkpoint shards:  67%|██████▋   | 2/3 [00:16<00:08,  8.05s/it]Loading checkpoint shards:  67%|██████▋   | 2/3 [00:16<00:08,  8.05s/it]Loading checkpoint shards:  67%|██████▋   | 2/3 [00:16<00:08,  8.05s/it]Loading checkpoint shards:  67%|██████▋   | 2/3 [00:16<00:08,  8.05s/it]Loading checkpoint shards:  67%|██████▋   | 2/3 [00:16<00:08,  8.12s/it]Loading checkpoint shards:  67%|██████▋   | 2/3 [00:16<00:08,  8.05s/it]Loading checkpoint shards: 100%|██████████| 3/3 [00:17<00:00,  5.17s/it]Loading checkpoint shards: 100%|██████████| 3/3 [00:17<00:00,  5.97s/it]
+Loading checkpoint shards: 100%|██████████| 3/3 [00:18<00:00,  5.27s/it]Loading checkpoint shards: 100%|██████████| 3/3 [00:18<00:00,  5.21s/it]Loading checkpoint shards: 100%|██████████| 3/3 [00:18<00:00,  5.22s/it]Loading checkpoint shards: 100%|██████████| 3/3 [00:18<00:00,  5.21s/it]Loading checkpoint shards: 100%|██████████| 3/3 [00:18<00:00,  5.21s/it]Loading checkpoint shards: 100%|██████████| 3/3 [00:18<00:00,  5.25s/it]Loading checkpoint shards: 100%|██████████| 3/3 [00:18<00:00,  6.00s/it]Loading checkpoint shards: 100%|██████████| 3/3 [00:18<00:00,  6.00s/it]Loading checkpoint shards: 100%|██████████| 3/3 [00:18<00:00,  6.00s/it]Loading checkpoint shards: 100%|██████████| 3/3 [00:18<00:00,  6.00s/it]Loading checkpoint shards: 100%|██████████| 3/3 [00:18<00:00,  6.00s/it]
+
+Loading checkpoint shards: 100%|██████████| 3/3 [00:18<00:00,  6.00s/it]
+
+
+
+Loading checkpoint shards: 100%|██████████| 3/3 [00:18<00:00,  5.21s/it]Loading checkpoint shards: 100%|██████████| 3/3 [00:18<00:00,  6.00s/it]
+Detected kernel version 3.10.0, which is below the recommended minimum of 5.5.0; this can cause the process to hang. It is recommended to upgrade the kernel to the minimum version or higher.
+03/13/2026 16:43:19 - INFO - trainer - Accelerator state: 
+Distributed environment: DEEPSPEED  Backend: nccl
+Num processes: 8
+Process index: 6
+Local process index: 6
+Device: cuda:6
+
+Mixed precision type: bf16
+ds_config: {'bf16': {'enabled': True}, 'optimizer': {'type': 'AdamW', 'params': {'lr': 'auto', 'weight_decay': 'auto', 'torch_adam': True, 'adam_w_mode': True}}, 'scheduler': {'type': 'WarmupDecayLR', 'params': {'warmup_min_lr': 'auto', 'warmup_max_lr': 'auto', 'warmup_num_steps': 'auto', 'total_num_steps': 'auto'}}, 'zero_optimization': {'stage': 2, 'allgather_partitions': True, 'allgather_bucket_size': 200000000.0, 'overlap_comm': True, 'reduce_scatter': True, 'reduce_bucket_size': 500000000.0, 'contiguous_gradients': True}, 'gradient_accumulation_steps': 1, 'train_micro_batch_size_per_gpu': 1, 'train_batch_size': 'auto', 'gradient_clipping': 'auto', 'steps_per_print': inf, 'wall_clock_breakdown': False, 'fp16': {'enabled': False}}
+
+03/13/2026 16:43:19 - INFO - trainer - Accelerator state: 
+Distributed environment: DEEPSPEED  Backend: nccl
+Num processes: 8
+Process index: 2
+Local process index: 2
+Device: cuda:2
+
+Mixed precision type: bf16
+ds_config: {'bf16': {'enabled': True}, 'optimizer': {'type': 'AdamW', 'params': {'lr': 'auto', 'weight_decay': 'auto', 'torch_adam': True, 'adam_w_mode': True}}, 'scheduler': {'type': 'WarmupDecayLR', 'params': {'warmup_min_lr': 'auto', 'warmup_max_lr': 'auto', 'warmup_num_steps': 'auto', 'total_num_steps': 'auto'}}, 'zero_optimization': {'stage': 2, 'allgather_partitions': True, 'allgather_bucket_size': 200000000.0, 'overlap_comm': True, 'reduce_scatter': True, 'reduce_bucket_size': 500000000.0, 'contiguous_gradients': True}, 'gradient_accumulation_steps': 1, 'train_micro_batch_size_per_gpu': 1, 'train_batch_size': 'auto', 'gradient_clipping': 'auto', 'steps_per_print': inf, 'wall_clock_breakdown': False, 'fp16': {'enabled': False}}
+
+03/13/2026 16:43:19 - INFO - trainer - Accelerator state: 
+Distributed environment: DEEPSPEED  Backend: nccl
+Num processes: 8
+Process index: 3
+Local process index: 3
+Device: cuda:3
+
+Mixed precision type: bf16
+ds_config: {'bf16': {'enabled': True}, 'optimizer': {'type': 'AdamW', 'params': {'lr': 'auto', 'weight_decay': 'auto', 'torch_adam': True, 'adam_w_mode': True}}, 'scheduler': {'type': 'WarmupDecayLR', 'params': {'warmup_min_lr': 'auto', 'warmup_max_lr': 'auto', 'warmup_num_steps': 'auto', 'total_num_steps': 'auto'}}, 'zero_optimization': {'stage': 2, 'allgather_partitions': True, 'allgather_bucket_size': 200000000.0, 'overlap_comm': True, 'reduce_scatter': True, 'reduce_bucket_size': 500000000.0, 'contiguous_gradients': True}, 'gradient_accumulation_steps': 1, 'train_micro_batch_size_per_gpu': 1, 'train_batch_size': 'auto', 'gradient_clipping': 'auto', 'steps_per_print': inf, 'wall_clock_breakdown': False, 'fp16': {'enabled': False}}
+
+03/13/2026 16:43:19 - INFO - trainer - Accelerator state: 
+Distributed environment: DEEPSPEED  Backend: nccl
+Num processes: 8
+Process index: 4
+Local process index: 4
+Device: cuda:4
+
+Mixed precision type: bf16
+ds_config: {'bf16': {'enabled': True}, 'optimizer': {'type': 'AdamW', 'params': {'lr': 'auto', 'weight_decay': 'auto', 'torch_adam': True, 'adam_w_mode': True}}, 'scheduler': {'type': 'WarmupDecayLR', 'params': {'warmup_min_lr': 'auto', 'warmup_max_lr': 'auto', 'warmup_num_steps': 'auto', 'total_num_steps': 'auto'}}, 'zero_optimization': {'stage': 2, 'allgather_partitions': True, 'allgather_bucket_size': 200000000.0, 'overlap_comm': True, 'reduce_scatter': True, 'reduce_bucket_size': 500000000.0, 'contiguous_gradients': True}, 'gradient_accumulation_steps': 1, 'train_micro_batch_size_per_gpu': 1, 'train_batch_size': 'auto', 'gradient_clipping': 'auto', 'steps_per_print': inf, 'wall_clock_breakdown': False, 'fp16': {'enabled': False}}
+
+03/13/2026 16:43:19 - INFO - trainer - Accelerator state: 
+Distributed environment: DEEPSPEED  Backend: nccl
+Num processes: 8
+Process index: 1
+Local process index: 1
+Device: cuda:1
+
+Mixed precision type: bf16
+ds_config: {'bf16': {'enabled': True}, 'optimizer': {'type': 'AdamW', 'params': {'lr': 'auto', 'weight_decay': 'auto', 'torch_adam': True, 'adam_w_mode': True}}, 'scheduler': {'type': 'WarmupDecayLR', 'params': {'warmup_min_lr': 'auto', 'warmup_max_lr': 'auto', 'warmup_num_steps': 'auto', 'total_num_steps': 'auto'}}, 'zero_optimization': {'stage': 2, 'allgather_partitions': True, 'allgather_bucket_size': 200000000.0, 'overlap_comm': True, 'reduce_scatter': True, 'reduce_bucket_size': 500000000.0, 'contiguous_gradients': True}, 'gradient_accumulation_steps': 1, 'train_micro_batch_size_per_gpu': 1, 'train_batch_size': 'auto', 'gradient_clipping': 'auto', 'steps_per_print': inf, 'wall_clock_breakdown': False, 'fp16': {'enabled': False}}
+
+03/13/2026 16:43:19 - INFO - trainer - Initialized Trainer
+03/13/2026 16:43:19 - INFO - trainer - Accelerator state: 
+Distributed environment: DEEPSPEED  Backend: nccl
+Num processes: 8
+Process index: 7
+Local process index: 7
+Device: cuda:7
+
+Mixed precision type: bf16
+ds_config: {'bf16': {'enabled': True}, 'optimizer': {'type': 'AdamW', 'params': {'lr': 'auto', 'weight_decay': 'auto', 'torch_adam': True, 'adam_w_mode': True}}, 'scheduler': {'type': 'WarmupDecayLR', 'params': {'warmup_min_lr': 'auto', 'warmup_max_lr': 'auto', 'warmup_num_steps': 'auto', 'total_num_steps': 'auto'}}, 'zero_optimization': {'stage': 2, 'allgather_partitions': True, 'allgather_bucket_size': 200000000.0, 'overlap_comm': True, 'reduce_scatter': True, 'reduce_bucket_size': 500000000.0, 'contiguous_gradients': True}, 'gradient_accumulation_steps': 1, 'train_micro_batch_size_per_gpu': 1, 'train_batch_size': 'auto', 'gradient_clipping': 'auto', 'steps_per_print': inf, 'wall_clock_breakdown': False, 'fp16': {'enabled': False}}
+
+03/13/2026 16:43:19 - INFO - trainer - Accelerator state: 
+Distributed environment: DEEPSPEED  Backend: nccl
+Num processes: 8
+Process index: 0
+Local process index: 0
+Device: cuda:0
+
+Mixed precision type: bf16
+ds_config: {'bf16': {'enabled': True}, 'optimizer': {'type': 'AdamW', 'params': {'lr': 'auto', 'weight_decay': 'auto', 'torch_adam': True, 'adam_w_mode': True}}, 'scheduler': {'type': 'WarmupDecayLR', 'params': {'warmup_min_lr': 'auto', 'warmup_max_lr': 'auto', 'warmup_num_steps': 'auto', 'total_num_steps': 'auto'}}, 'zero_optimization': {'stage': 2, 'allgather_partitions': True, 'allgather_bucket_size': 200000000.0, 'overlap_comm': True, 'reduce_scatter': True, 'reduce_bucket_size': 500000000.0, 'contiguous_gradients': True}, 'gradient_accumulation_steps': 1, 'train_micro_batch_size_per_gpu': 1, 'train_batch_size': 'auto', 'gradient_clipping': 'auto', 'steps_per_print': inf, 'wall_clock_breakdown': False, 'fp16': {'enabled': False}}
+
+03/13/2026 16:43:19 - INFO - trainer - Accelerator state: 
+Distributed environment: DEEPSPEED  Backend: nccl
+Num processes: 8
+Process index: 5
+Local process index: 5
+Device: cuda:5
+
+Mixed precision type: bf16
+ds_config: {'bf16': {'enabled': True}, 'optimizer': {'type': 'AdamW', 'params': {'lr': 'auto', 'weight_decay': 'auto', 'torch_adam': True, 'adam_w_mode': True}}, 'scheduler': {'type': 'WarmupDecayLR', 'params': {'warmup_min_lr': 'auto', 'warmup_max_lr': 'auto', 'warmup_num_steps': 'auto', 'total_num_steps': 'auto'}}, 'zero_optimization': {'stage': 2, 'allgather_partitions': True, 'allgather_bucket_size': 200000000.0, 'overlap_comm': True, 'reduce_scatter': True, 'reduce_bucket_size': 500000000.0, 'contiguous_gradients': True}, 'gradient_accumulation_steps': 1, 'train_micro_batch_size_per_gpu': 1, 'train_batch_size': 'auto', 'gradient_clipping': 'auto', 'steps_per_print': inf, 'wall_clock_breakdown': False, 'fp16': {'enabled': False}}
+
+03/13/2026 16:43:19 - INFO - trainer - Initializing models
+03/13/2026 16:43:19 - INFO - trainer - Initializing dataset and dataloader
+03/13/2026 16:43:45 - INFO - trainer - Precomputing latent for video and prompt embedding ...
+03/13/2026 16:43:53 - INFO - trainer - Precomputing latent for video and prompt embedding ... Done
+03/13/2026 16:43:59 - INFO - trainer - Initializing trainable parameters
+03/13/2026 16:43:59 - INFO - trainer - Initializing optimizer and lr scheduler
+Before initializing optimizer states
+MA 12.97 GB         Max_MA 14.27 GB         CA 14.28 GB         Max_CA 14 GB 
+CPU Virtual Memory:  used = 392.23 GB, percent = 19.5%
+After initializing optimizer states
+MA 12.97 GB         Max_MA 15.57 GB         CA 16.88 GB         Max_CA 17 GB 
+CPU Virtual Memory:  used = 392.27 GB, percent = 19.5%
+After initializing ZeRO optimizer
+MA 12.97 GB         Max_MA 12.97 GB         CA 16.88 GB         Max_CA 17 GB 
+CPU Virtual Memory:  used = 390.16 GB, percent = 19.4%
+[2026-03-13 16:44:34,737] [WARNING] [lr_schedules.py:690:get_lr] Attempting to get learning rate from scheduler before it has started
+03/13/2026 16:44:34 - INFO - trainer - Initializing trackers
+[2026-03-13 16:44:35,836] [WARNING] [lr_schedules.py:690:get_lr] Attempting to get learning rate from scheduler before it has started
+[2026-03-13 16:44:36,149] [WARNING] [lr_schedules.py:690:get_lr] Attempting to get learning rate from scheduler before it has started
+[rank0]: Traceback (most recent call last):
+[rank0]:   File "/mnt/petrelfs/zhangsiyu/CogVideo/finetune/train.py", line 27, in <module>
+[rank0]:     main()
+[rank0]:   File "/mnt/petrelfs/zhangsiyu/CogVideo/finetune/train.py", line 23, in main
+[rank0]:     trainer.fit()
+[rank0]:   File "/mnt/petrelfs/zhangsiyu/CogVideo/finetune/trainer.py", line 679, in fit
+[rank0]:     self.prepare_trackers()
+[rank0]:   File "/mnt/petrelfs/zhangsiyu/CogVideo/finetune/trainer.py", line 370, in prepare_trackers
+[rank0]:     self.accelerator.init_trackers(tracker_name, config=self.args.model_dump())
+[rank0]:   File "/mnt/petrelfs/zhangsiyu/miniconda3/envs/cogvideox/lib/python3.10/site-packages/accelerate/accelerator.py", line 908, in _inner
+[rank0]:     return PartialState().on_main_process(function)(*args, **kwargs)
+[rank0]:   File "/mnt/petrelfs/zhangsiyu/miniconda3/envs/cogvideox/lib/python3.10/site-packages/accelerate/accelerator.py", line 3321, in init_trackers
+[rank0]:     tracker.store_init_configuration(config)
+[rank0]:   File "/mnt/petrelfs/zhangsiyu/miniconda3/envs/cogvideox/lib/python3.10/site-packages/accelerate/tracking.py", line 89, in execute_on_main_process
+[rank0]:     return PartialState().on_main_process(function)(self, *args, **kwargs)
+[rank0]:   File "/mnt/petrelfs/zhangsiyu/miniconda3/envs/cogvideox/lib/python3.10/site-packages/accelerate/tracking.py", line 232, in store_init_configuration
+[rank0]:     self.writer.add_hparams(values, metric_dict={})
+[rank0]:   File "/mnt/petrelfs/zhangsiyu/miniconda3/envs/cogvideox/lib/python3.10/site-packages/torch/utils/tensorboard/writer.py", line 330, in add_hparams
+[rank0]:     exp, ssi, sei = hparams(hparam_dict, metric_dict, hparam_domain_discrete)
+[rank0]:   File "/mnt/petrelfs/zhangsiyu/miniconda3/envs/cogvideox/lib/python3.10/site-packages/torch/utils/tensorboard/summary.py", line 318, in hparams
+[rank0]:     raise ValueError(
+[rank0]: ValueError: value should be one of int, float, str, bool, or torch.Tensor
+[2026-03-13 16:44:36,640] [WARNING] [lr_schedules.py:690:get_lr] Attempting to get learning rate from scheduler before it has started
+[2026-03-13 16:44:36,738] [WARNING] [lr_schedules.py:690:get_lr] Attempting to get learning rate from scheduler before it has started
+[2026-03-13 16:44:37,064] [WARNING] [lr_schedules.py:690:get_lr] Attempting to get learning rate from scheduler before it has started
+[2026-03-13 16:44:39,126] [WARNING] [lr_schedules.py:690:get_lr] Attempting to get learning rate from scheduler before it has started
+[2026-03-13 16:44:39,541] [WARNING] [lr_schedules.py:690:get_lr] Attempting to get learning rate from scheduler before it has started
+W0313 16:44:46.681000 57255 site-packages/torch/distributed/elastic/multiprocessing/api.py:908] Sending process 61009 closing signal SIGTERM
+W0313 16:44:46.687000 57255 site-packages/torch/distributed/elastic/multiprocessing/api.py:908] Sending process 61010 closing signal SIGTERM
+W0313 16:44:46.687000 57255 site-packages/torch/distributed/elastic/multiprocessing/api.py:908] Sending process 61011 closing signal SIGTERM
+W0313 16:44:46.688000 57255 site-packages/torch/distributed/elastic/multiprocessing/api.py:908] Sending process 61012 closing signal SIGTERM
+W0313 16:44:46.689000 57255 site-packages/torch/distributed/elastic/multiprocessing/api.py:908] Sending process 61013 closing signal SIGTERM
+W0313 16:44:46.689000 57255 site-packages/torch/distributed/elastic/multiprocessing/api.py:908] Sending process 61014 closing signal SIGTERM
+W0313 16:44:46.690000 57255 site-packages/torch/distributed/elastic/multiprocessing/api.py:908] Sending process 61015 closing signal SIGTERM
+E0313 16:44:51.606000 57255 site-packages/torch/distributed/elastic/multiprocessing/api.py:882] failed (exitcode: 1) local_rank: 0 (pid: 61008) of binary: /mnt/petrelfs/zhangsiyu/miniconda3/envs/cogvideox/bin/python3.10
+Traceback (most recent call last):
+  File "/mnt/petrelfs/zhangsiyu/miniconda3/envs/cogvideox/bin/accelerate", line 7, in <module>
+    sys.exit(main())
+  File "/mnt/petrelfs/zhangsiyu/miniconda3/envs/cogvideox/lib/python3.10/site-packages/accelerate/commands/accelerate_cli.py", line 50, in main
+    args.func(args)
+  File "/mnt/petrelfs/zhangsiyu/miniconda3/envs/cogvideox/lib/python3.10/site-packages/accelerate/commands/launch.py", line 1266, in launch_command
+    deepspeed_launcher(args)
+  File "/mnt/petrelfs/zhangsiyu/miniconda3/envs/cogvideox/lib/python3.10/site-packages/accelerate/commands/launch.py", line 952, in deepspeed_launcher
+    distrib_run.run(args)
+  File "/mnt/petrelfs/zhangsiyu/miniconda3/envs/cogvideox/lib/python3.10/site-packages/torch/distributed/run.py", line 927, in run
+    elastic_launch(
+  File "/mnt/petrelfs/zhangsiyu/miniconda3/envs/cogvideox/lib/python3.10/site-packages/torch/distributed/launcher/api.py", line 156, in __call__
+    return launch_agent(self._config, self._entrypoint, list(args))
+  File "/mnt/petrelfs/zhangsiyu/miniconda3/envs/cogvideox/lib/python3.10/site-packages/torch/distributed/launcher/api.py", line 293, in launch_agent
+    raise ChildFailedError(
+torch.distributed.elastic.multiprocessing.errors.ChildFailedError: 
+============================================================
+train.py FAILED
+------------------------------------------------------------
+Failures:
+  <NO_OTHER_FAILURES>
+------------------------------------------------------------
+Root Cause (first observed failure):
+[0]:
+  time      : 2026-03-13_16:44:46
+  host      : HOST-10-140-60-155
+  rank      : 0 (local_rank: 0)
+  exitcode  : 1 (pid: 61008)
+  error_file: <N/A>
+  traceback : To enable traceback see: https://pytorch.org/docs/stable/elastic/errors.html
+============================================================
+srun: error: HOST-10-140-60-155: task 0: Exited with exit code 1
