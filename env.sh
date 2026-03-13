@@ -5,7 +5,7 @@
 srun -p $vp --gres=gpu:0 apptainer exec --nv ~/ubuntu.sif bash -c "
 source ~/.bashrc && \
 conda activate cogvideox && \
-cd /mnt/petrelfs/zhangsiyu/4dgen/CogVideo && \
+cd /mnt/petrelfs/zhangsiyu/CogVideo && \
 export http_proxy=http://zhangsiyu:3WqUQ2knmuHFeBXYcRKJ0rbA6EB3Jqg7Rx8bV1cjn2dtNSPZDBe9WIWbDtsn@10.1.20.50:23128/ && \
 export https_proxy=http://zhangsiyu:3WqUQ2knmuHFeBXYcRKJ0rbA6EB3Jqg7Rx8bV1cjn2dtNSPZDBe9WIWbDtsn@10.1.20.50:23128/ && \
 export HTTP_PROXY=http://zhangsiyu:3WqUQ2knmuHFeBXYcRKJ0rbA6EB3Jqg7Rx8bV1cjn2dtNSPZDBe9WIWbDtsn@10.1.20.50:23128/ && \

@@ -27,7 +27,6 @@ class Args(BaseModel):
 
     ########## Training #########
     resume_from_checkpoint: Path | None = None
-    lr_test_only: bool = False
 
     seed: int | None = None
     train_epochs: int
@@ -236,7 +235,6 @@ class Args(BaseModel):
         parser.add_argument("--checkpointing_steps", type=int, default=200)
         parser.add_argument("--checkpointing_limit", type=int, default=10)
         parser.add_argument("--resume_from_checkpoint", type=str, default=None)
-        parser.add_argument("--lr_test_only", type=lambda x: x.lower() == 'true', default=False)
 
         # Validation
         parser.add_argument("--do_validation", type=lambda x: x.lower() == 'true', default=False)
